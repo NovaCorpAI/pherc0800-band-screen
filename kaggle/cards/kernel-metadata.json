@@ -1,0 +1,19 @@
+{
+  "id": "anaelcasanova/band0800-cards",
+  "title": "band0800-cards",
+  "code_file": "kaggle_cards.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [
+    "anaelcasanova/band0800-ink",
+    "anaelcasanova/band0800-render-0",
+    "anaelcasanova/band0800-render-1",
+    "anaelcasanova/band0800-render-2",
+    "anaelcasanova/band0800-render-3"
+  ]
+}

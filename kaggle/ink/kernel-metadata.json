@@ -1,0 +1,21 @@
+{
+  "id": "anaelcasanova/band0800-ink",
+  "title": "band0800-ink",
+  "code_file": "kaggle_ink.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "anaelcasanova/band0800-code"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "anaelcasanova/band0800-flatten",
+    "anaelcasanova/band0800-render-0",
+    "anaelcasanova/band0800-render-1",
+    "anaelcasanova/band0800-render-2",
+    "anaelcasanova/band0800-render-3"
+  ]
+}

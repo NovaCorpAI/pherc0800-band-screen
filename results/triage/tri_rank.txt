@@ -1,0 +1,506 @@
+  7.26 b0800_w082             rev x2600   rows  15.0 fib 1.2 tex 0.92 crack 0.75 shape 0.476 recur 0.287 glyph 10.953 via row  -> REVIEW
+  4.21 b0800_w085             fwd x7800   rows  10.0 fib 6.2 tex 0.98 crack 0.0 shape 0.274 recur 0.248 glyph 10.836 via row  -> REVIEW
+  4.16 b0800_w063             rev x5200   rows  15.0 fib 6.2 tex 1.06 crack 1.43 shape 0.288 recur 0.25 glyph 9.953 via row  -> REVIEW
+  3.40 b0800_w085             rev x7800   rows  10.0 fib 6.2 tex 0.98 crack 0.14 shape 0.281 recur 0.248 glyph 10.312 via row  -> REVIEW
+  3.30 b0800_w089             fwd x2600   rows   5.0 fib 11.2 tex 0.93 crack 0.72 shape 0.458 recur -0.165 glyph 7.355 via row  -> REVIEW
+  3.29 b0800_w080             fwd x3900   rows   5.0 fib 1.2 tex 0.9 crack 0.6 shape 0.225 recur 0.228 glyph 9.703 via row  -> REVIEW
+  3.13 b0800_w064             rev x1300   rows  15.0 fib 6.2 tex 1.01 crack 1.31 shape 0.634 recur 0.142 glyph 11.047 via row  -> REVIEW
+  2.54 b0800_w068             fwd x2600   rows  10.0 fib 1.2 tex 0.94 crack 0.34 shape 0.537 recur 0.253 glyph 10.68 via row  -> REVIEW
+  1.93 b0800_w076             fwd x2600   rows  20.0 fib 3.8 tex 0.93 crack 0.31 shape 0.41 recur 0.286 glyph 10.086 via row  -> REVIEW
+  1.51 b0800_w074             rev x5200   rows  10.0 fib 6.2 tex 1.0 crack 0.44 shape 0.413 recur -0.085 glyph 10.625 via row  -> REVIEW
+  1.50 b0800_w083             rev x2600   rows  10.0 fib 3.8 tex 0.94 crack 0.53 shape 0.405 recur 0.214 glyph 9.039 via row  -> REVIEW
+  1.37 b0800_w078             rev x7800   rows  20.0 fib 6.2 tex 1.05 crack 0.55 shape 0.213 recur 0.291 glyph 11.539 via row  -> REVIEW
+  1.29 b0800_w072             rev x6500   rows  20.0 fib 3.8 tex 1.2 crack 1.49 shape 0.264 recur 0.186 glyph 9.367 via row  -> REVIEW
+  1.23 b0800_w068             rev x2600   rows  10.0 fib 1.2 tex 0.94 crack 0.33 shape 0.239 recur 0.253 glyph 7.449 via row  -> REVIEW
+  1.18 b0800_w072             fwd x0      rows  20.0 fib 6.2 tex 1.1 crack 0.12 shape 0.326 recur 0.268 glyph 8.867 via row  -> REVIEW
+  1.18 b0800_w077             rev x0      rows   0.0 fib 8.8 tex 1.16 crack 0.73 shape 0.321 recur 0.029 glyph 5.852 via row  -> REVIEW
+  1.12 b0800_w073             fwd x7800   rows  15.0 fib 6.2 tex 1.23 crack 0.54 shape 0.397 recur -0.103 glyph 10.109 via row  -> REVIEW
+  1.11 b0800_w075             fwd x2600   rows  20.0 fib 3.8 tex 0.91 crack 0.24 shape 0.235 recur -0.01 glyph 8.125 via row  -> REVIEW
+  0.98 b0800_w088             rev x9100   rows   0.0 fib 1.2 tex 0.87 crack 0.29 shape 0.524 recur 0.067 glyph 9.047 via row  -> REVIEW
+  0.84 b0800_w061             rev x1300   rows   5.0 fib 3.8 tex 0.98 crack 0.03 shape 0.227 recur 0.115 glyph 7.488 via row  -> REVIEW
+  0.83 b0800_w072             fwd x5200   rows   0.0 fib 3.8 tex 1.03 crack 1.01 shape 0.278 recur -0.035 glyph 9.141 via row  -> REVIEW
+  0.77 b0800_w067             rev x5200   rows   5.0 fib 6.2 tex 1.09 crack 1.39 shape 0.467 recur 0.241 glyph 11.039 via row  -> REVIEW
+  0.71 b0800_w084             fwd x7800   rows  15.0 fib 3.8 tex 1.1 crack 0.61 shape 0.461 recur 0.224 glyph 10.555 via row  -> REVIEW
+  0.70 b0800_w062             fwd x1300   rows   5.0 fib 3.8 tex 0.98 crack 0.0 shape 0.204 recur 0.147 glyph 7.383 via row  -> REVIEW
+  0.70 b0800_w089             rev x2600   rows  15.0 fib 11.2 tex 0.93 crack 1.11 shape 0.544 recur -0.165 glyph 10.25 via row  -> REVIEW
+  0.65 b0800_w089             rev x0      rows  10.0 fib 6.2 tex 0.83 crack 0.13 shape 0.313 recur -0.006 glyph 5.414 via row  -> REVIEW
+  0.64 b0800_w075             rev x2600   rows  10.0 fib 3.8 tex 0.91 crack 0.51 shape 0.48 recur -0.01 glyph 9.055 via row  -> REVIEW
+  0.60 b0800_w053             fwd x0      rows  10.0 fib 3.8 tex 1.03 crack 0.0 shape 0.541 recur 0.033 glyph 8.609 via row  -> REVIEW
+  0.39 b0800_w065             rev x2600   rows   5.0 fib 6.2 tex 0.92 crack 0.25 shape 0.294 recur 0.124 glyph 9.828 via row  -> REVIEW
+ -0.07 b0800_w058             fwd x1300   rows  15.0 fib 11.2 tex 0.95 crack 1.43 shape 0.301 recur 0.294 glyph 8.891 via row  -> REVIEW
+ -0.10 b0800_w073             rev x7800   rows   0.0 fib 6.2 tex 1.23 crack 0.15 shape 0.472 recur -0.103 glyph 9.477 via row  -> REVIEW
+ -0.15 b0800_w075             rev x7800   rows  20.0 fib 6.2 tex 1.18 crack 0.0 shape 0.446 recur -0.068 glyph 11.453 via row  -> REVIEW
+ -0.18 b0800_w061             rev x3900   rows  20.0 fib 8.8 tex 0.98 crack 0.23 shape 0.329 recur 0.281 glyph 9.875 via row  -> REVIEW
+ -0.20 b0800_w067             rev x3900   rows   5.0 fib 3.8 tex 0.99 crack 0.37 shape 0.269 recur 0.106 glyph 11.125 via row  -> REVIEW
+ -0.31 b0800_w062             fwd x5200   rows  20.0 fib 6.2 tex 1.09 crack 1.38 shape 0.267 recur 0.22 glyph 10.203 via row  -> REVIEW
+ -0.34 b0800_w073             rev x3900   rows  10.0 fib 6.2 tex 0.91 crack 0.68 shape 0.319 recur 0.157 glyph 9.164 via row  -> REVIEW
+ -0.35 b0800_w077             fwd x6500   rows  10.0 fib 6.2 tex 1.06 crack 0.09 shape 0.264 recur 0.115 glyph 10.273 via row  -> REVIEW
+ -0.43 b0800_w068             rev x3900   rows   5.0 fib 1.2 tex 0.97 crack 0.28 shape 0.438 recur 0.252 glyph 8.438 via row  -> REVIEW
+ -0.43 b0800_w087             fwd x1300   rows   5.0 fib 11.2 tex 0.97 crack 0.26 shape 0.412 recur 0.153 glyph 10.578 via row  -> REVIEW
+ -0.58 b0800_w053             fwd x5200   rows   0.0 fib 8.8 tex 1.14 crack 0.0 shape 0.707 recur -0.062 glyph 8.047 via row  -> REVIEW
+ -0.65 b0800_w086             rev x6500   rows  10.0 fib 3.8 tex 0.9 crack 0.83 shape 0.325 recur 0.245 glyph 9.219 via row  -> REVIEW
+ -0.72 b0800_w078             fwd x7800   rows  20.0 fib 6.2 tex 1.05 crack 0.37 shape 0.571 recur 0.291 glyph 10.102 via row  -> REVIEW
+ -0.73 b0800_w058             rev x1300   rows  15.0 fib 11.2 tex 0.95 crack 0.55 shape 0.342 recur 0.294 glyph 9.523 via row  -> REVIEW
+ -0.79 b0800_w077             fwd x0      rows  20.0 fib 8.8 tex 1.16 crack 0.01 shape 0.219 recur 0.029 glyph 9.273 via row  -> REVIEW
+ -0.85 b0800_w071             rev x6500   rows  20.0 fib 3.8 tex 1.14 crack 0.67 shape 0.405 recur 0.27 glyph 8.875 via row  -> REVIEW
+ -0.98 b0800_w077             fwd x5200   rows  20.0 fib 6.2 tex 0.91 crack 0.06 shape 0.354 recur 0.126 glyph 10.5 via row  -> REVIEW
+ -1.16 b0800_w079             fwd x1300   rows  15.0 fib 8.8 tex 0.93 crack 1.29 shape 0.371 recur 0.108 glyph 9.164 via row  -> REVIEW
+ -1.45 b0800_w056             fwd x2600   rows  10.0 fib 3.8 tex 1.02 crack 0.82 shape 0.218 recur 0.087 glyph 8.609 via row  -> REVIEW
+ -1.46 b0800_w074             rev x6500   rows   0.0 fib 6.2 tex 1.12 crack 0.09 shape 0.244 recur 0.095 glyph 10.625 via row  -> REVIEW
+ -1.55 b0800_w059             fwd x5200   rows  10.0 fib 6.2 tex 1.09 crack 0.26 shape 0.24 recur 0.18 glyph 10.828 via row  -> REVIEW
+ 12.60 b0800_w087             fwd x5200   rows  15.0 fib 11.2 tex 0.84 crack 0.64 shape 0.308 recur 0.464 glyph 10.5 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  3.97 b0800_w076             rev x0      rows   0.0 fib 8.8 tex 1.12 crack 1.79 shape 0.206 recur 0.177 glyph 9.227 via row  -> REVIEW-2: on cracks
+  3.83 b0800_w065             rev x1300   rows  15.0 fib 1.2 tex 0.98 crack 0.36 shape 0.476 recur 0.42 glyph 8.703 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  3.64 b0800_w087             rev x3900   rows  20.0 fib 3.8 tex 0.9 crack 1.14 shape 0.458 recur 0.451 glyph 10.055 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  3.05 b0800_w075             rev x0      rows  10.0 fib 6.2 tex 1.15 crack 0.27 shape 0.223 recur 0.404 glyph 9.93 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  2.97 b0800_w065             rev x5200   rows  10.0 fib 6.2 tex 1.07 crack 0.01 shape 0.473 recur 0.341 glyph 11.141 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  2.07 b0800_w072             rev x2600   rows  10.0 fib 8.8 tex 0.91 crack 1.58 shape 0.317 recur 0.221 glyph 11.75 via row  -> REVIEW-2: on cracks
+  1.68 b0800_w087             rev x9100   rows  10.0 fib 1.2 tex 0.91 crack 0.37 shape 0.35 recur 0.553 glyph 9.594 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  1.51 b0800_w082             fwd x0      rows   5.0 fib 6.2 tex 1.01 crack 0.0 shape 0.264 recur 0.406 glyph 10.016 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  1.46 b0800_w053             fwd x1300   rows  20.0 fib 6.2 tex 1.01 crack 0.02 shape 0.397 recur 0.308 glyph 8.266 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  1.17 b0800_w064             rev x3900   rows  10.0 fib 6.2 tex 1.0 crack 2.08 shape 0.337 recur -0.039 glyph 9.484 via row  -> REVIEW-2: on cracks
+  0.94 b0800_w077             rev x7800   rows   0.0 fib 6.2 tex 1.13 crack 1.31 shape 0.42 recur 0.603 glyph 8.766 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.90 b0800_w084             rev x0      rows   5.0 fib 6.2 tex 1.05 crack 0.0 shape 0.341 recur 0.777 glyph 9.484 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.85 b0800_w060             fwd x1300   rows  15.0 fib 3.8 tex 1.0 crack 1.93 shape 0.3 recur 0.299 glyph 8.102 via row  -> REVIEW-2: on cracks
+  0.68 b0800_w080             rev x6500   rows  10.0 fib 3.8 tex 1.01 crack 0.88 shape 0.364 recur 0.32 glyph 11.227 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.67 b0800_w086             rev x3900   rows  20.0 fib 1.2 tex 0.89 crack 0.67 shape 0.237 recur 0.634 glyph 8.609 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.63 b0800_w067             rev x6500   rows   0.0 fib 6.2 tex 1.14 crack 1.38 shape 0.599 recur 0.562 glyph 9.141 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.62 b0800_w068             fwd x1300   rows  15.0 fib 3.8 tex 0.99 crack 0.08 shape 0.36 recur 0.493 glyph 10.406 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.59 b0800_w080             fwd x7800   rows  15.0 fib 3.8 tex 1.02 crack 1.91 shape 0.592 recur 0.184 glyph 11.203 via row  -> REVIEW-2: on cracks
+  0.44 b0800_w088             fwd x3900   rows  10.0 fib 11.2 tex 0.91 crack 0.08 shape 0.208 recur 0.644 glyph 10.148 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.41 b0800_w086             fwd x7800   rows   0.0 fib 6.2 tex 1.0 crack 0.31 shape 0.318 recur 0.324 glyph 10.789 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.41 b0800_w088             rev x5200   rows  20.0 fib 11.2 tex 0.86 crack 0.54 shape 0.452 recur 0.542 glyph 10.047 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.36 b0800_w074             rev x2600   rows  10.0 fib 6.2 tex 0.91 crack 0.53 shape 0.202 recur 0.307 glyph 10.18 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.31 b0800_w085             fwd x3900   rows  20.0 fib 1.2 tex 0.89 crack 1.13 shape 0.398 recur 0.336 glyph 9.148 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.29 b0800_w089             fwd x5200   rows  10.0 fib 11.2 tex 0.86 crack 0.38 shape 0.363 recur 0.443 glyph 9.734 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.15 b0800_w088             fwd x5200   rows   5.0 fib 11.2 tex 0.86 crack 0.98 shape 0.387 recur 0.542 glyph 10.055 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  0.02 b0800_w071             rev x0      rows  10.0 fib 8.8 tex 1.07 crack 0.58 shape 0.436 recur 0.328 glyph 6.418 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.10 b0800_w087             fwd x3900   rows  20.0 fib 3.8 tex 0.9 crack 0.27 shape 0.307 recur 0.451 glyph 10.078 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.13 b0800_w085             fwd x6500   rows  15.0 fib 3.8 tex 0.9 crack 0.85 shape 0.337 recur 0.465 glyph 11.555 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.17 b0800_w052             fwd x5200   rows   0.0 fib 11.2 tex 1.14 crack 0.29 shape 0.438 recur 0.476 glyph 8.914 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.18 b0800_w083             fwd x3900   rows  15.0 fib 3.8 tex 0.85 crack 0.87 shape 0.364 recur 0.358 glyph 11.359 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.20 b0800_w052             rev x5200   rows  15.0 fib 11.2 tex 1.14 crack 1.47 shape 0.483 recur 0.476 glyph 7.812 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.28 b0800_w071             fwd x0      rows  20.0 fib 8.8 tex 1.07 crack 0.32 shape 0.529 recur 0.328 glyph 8.414 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.29 b0800_w087             fwd x6500   rows  20.0 fib 8.8 tex 0.9 crack 0.15 shape 0.369 recur 0.841 glyph 9.117 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.31 b0800_w083             rev x1300   rows   5.0 fib 6.2 tex 0.99 crack 0.56 shape 0.255 recur 0.485 glyph 9.82 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.32 b0800_w089             fwd x9100   rows  10.0 fib 1.2 tex 0.91 crack 0.26 shape 0.54 recur 0.754 glyph 7.051 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.37 b0800_w074             fwd x2600   rows  15.0 fib 6.2 tex 0.91 crack 1.12 shape 0.279 recur 0.307 glyph 12.672 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.44 b0800_w085             rev x0      rows   5.0 fib 6.2 tex 1.01 crack 0.18 shape 0.24 recur 0.31 glyph 7.805 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.53 b0800_w077             rev x6500   rows  20.0 fib 6.2 tex 1.06 crack 1.93 shape 0.267 recur 0.115 glyph 10.148 via row  -> REVIEW-2: on cracks
+ -0.54 b0800_w068             fwd x0      rows  20.0 fib 3.8 tex 1.1 crack 0.84 shape 0.451 recur 0.437 glyph 9.523 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.54 b0800_w076             rev x5200   rows  20.0 fib 6.2 tex 0.93 crack 2.88 shape 0.323 recur 0.199 glyph 11.0 via row  -> REVIEW-2: on cracks
+ -0.57 b0800_w076             fwd x3900   rows   0.0 fib 8.8 tex 0.87 crack 0.01 shape 0.397 recur 0.59 glyph 10.172 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.59 b0800_w061             rev x2600   rows  10.0 fib 3.8 tex 0.96 crack 0.18 shape 0.376 recur 0.396 glyph 9.453 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.62 b0800_w085             rev x6500   rows  10.0 fib 3.8 tex 0.9 crack 0.16 shape 0.472 recur 0.465 glyph 11.273 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.70 b0800_w071             fwd x1300   rows  20.0 fib 1.2 tex 0.98 crack 0.79 shape 0.23 recur 0.53 glyph 8.453 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.71 b0800_w060             fwd x3900   rows   0.0 fib 6.2 tex 1.04 crack 0.23 shape 0.309 recur 0.48 glyph 10.867 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.71 b0800_w067             fwd x1300   rows  15.0 fib 8.8 tex 1.01 crack 1.09 shape 0.375 recur 0.485 glyph 10.859 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.75 b0800_w087             fwd x0      rows  20.0 fib 11.2 tex 1.0 crack 2.92 shape 0.655 recur 0.184 glyph 6.648 via row  -> REVIEW-2: on cracks
+ -0.76 b0800_w071             fwd x2600   rows  15.0 fib 6.2 tex 0.93 crack 0.78 shape 0.409 recur 0.501 glyph 10.125 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.77 b0800_w066             fwd x2600   rows  15.0 fib 3.8 tex 0.94 crack 2.69 shape 0.487 recur 0.177 glyph 13.047 via row  -> REVIEW-2: on cracks
+ -0.78 b0800_w060             rev x2600   rows  10.0 fib 1.2 tex 0.99 crack 0.43 shape 0.292 recur 0.359 glyph 9.766 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.81 b0800_w059             rev x1300   rows  20.0 fib 3.8 tex 0.97 crack 1.14 shape 0.29 recur 0.391 glyph 5.344 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.91 b0800_w074             fwd x0      rows  15.0 fib 6.2 tex 1.13 crack 0.34 shape 0.393 recur 0.301 glyph 6.625 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -0.95 b0800_w081             rev x6500   rows  20.0 fib 6.2 tex 1.02 crack 2.56 shape 0.26 recur 0.052 glyph 10.633 via row  -> REVIEW-2: on cracks
+ -0.96 b0800_w074             rev x1300   rows  10.0 fib 3.8 tex 0.99 crack 1.52 shape 0.21 recur 0.282 glyph 10.445 via row  -> REVIEW-2: on cracks
+ -1.10 b0800_w069             fwd x6500   rows  15.0 fib 11.2 tex 1.07 crack 0.0 shape 0.464 recur 0.442 glyph 6.551 via row  -> REVIEW-2: repeats on w+-2 (structure)
+ -1.15 b0800_w062             rev x1300   rows   5.0 fib 3.8 tex 0.98 crack 4.3 shape 0.29 recur 0.147 glyph 10.383 via row  -> REVIEW-2: on cracks
+ -1.21 b0800_w061             rev x5200   rows  10.0 fib 8.8 tex 1.1 crack 3.42 shape 0.215 recur 0.263 glyph 9.938 via row  -> REVIEW-2: on cracks
+ -1.43 b0800_w084             rev x1300   rows  20.0 fib 8.8 tex 0.99 crack 0.24 shape 0.329 recur 0.645 glyph 9.406 via row  -> REVIEW-2: repeats on w+-2 (structure)
+  7.43 b0800_w055             fwd x5200   rows  15.0 fib 8.8 tex 1.1 crack 0.8 shape 0.176 recur -0.033 glyph 8.797 via row  -> REVIEW-2: round blobs, no strokes
+  4.73 b0800_w081             rev x2600   rows   5.0 fib 3.8 tex 0.93 crack 1.67 shape 0.41 recur 0.438 glyph 9.664 via row  -> REVIEW-2: on cracks, repeats on w+-2 (structure)
+  3.87 b0800_w058             fwd x2600   rows   0.0 fib 6.2 tex 0.98 crack 1.45 shape 0.112 recur 0.196 glyph 10.422 via row  -> REVIEW-2: round blobs, no strokes
+  3.54 b0800_w087             rev x5200   rows  20.0 fib 11.2 tex 0.84 crack 1.58 shape 0.478 recur 0.464 glyph 12.734 via row  -> REVIEW-2: on cracks, repeats on w+-2 (structure)
+  2.19 b0800_w062             rev x0      rows  20.0 fib 3.8 tex 1.04 crack 3.49 shape 0.341 recur 0.654 glyph 10.477 via row  -> REVIEW-2: on cracks, repeats on w+-2 (structure)
+  2.12 b0800_w089             fwd x0      rows  15.0 fib 6.2 tex 0.83 crack 0.53 shape 0.0 recur -0.006 glyph 2.221 via row  -> REVIEW-2: round blobs, no strokes
+  1.91 b0800_w073             fwd x5200   rows  10.0 fib 6.2 tex 0.99 crack 0.31 shape 0.174 recur -0.114 glyph 10.25 via row  -> REVIEW-2: round blobs, no strokes
+  1.74 b0800_w082             fwd x9100   rows  10.0 fib 1.2 tex 1.06 crack 2.0 shape 0.423 recur 0.313 glyph 5.301 via row  -> REVIEW-2: on cracks, repeats on w+-2 (structure)
+  1.64 b0800_w088             rev x0      rows  15.0 fib 8.8 tex 0.93 crack 0.0 shape 0.137 recur -0.55 glyph 4.117 via row  -> REVIEW-2: round blobs, no strokes
+  0.97 b0800_w068             fwd x5200   rows  10.0 fib 6.2 tex 1.03 crack 0.35 shape 0.102 recur 0.234 glyph 12.484 via row  -> REVIEW-2: round blobs, no strokes
+  0.89 b0800_w081             rev x9100   rows  20.0 fib 1.2 tex 1.03 crack 1.28 shape 0.0 recur 0.162 glyph 1.561 via row  -> REVIEW-2: round blobs, no strokes
+  0.68 b0800_w057             fwd x2600   rows  15.0 fib 1.2 tex 0.98 crack 0.24 shape 0.099 recur 0.129 glyph 9.422 via row  -> REVIEW-2: round blobs, no strokes
+  0.56 b0800_w075             rev x3900   rows  20.0 fib 3.8 tex 0.87 crack 0.4 shape 0.122 recur 0.156 glyph 10.305 via row  -> REVIEW-2: round blobs, no strokes
+  0.46 b0800_w077             fwd x1300   rows  20.0 fib 6.2 tex 1.07 crack 0.21 shape 0.124 recur 0.278 glyph 9.391 via row  -> REVIEW-2: round blobs, no strokes
+  0.41 b0800_w075             rev x6500   rows  20.0 fib 6.2 tex 1.15 crack 0.62 shape 0.157 recur -0.113 glyph 11.344 via row  -> REVIEW-2: round blobs, no strokes
+  0.37 b0800_w057             rev x1300   rows  15.0 fib 1.2 tex 0.98 crack 0.46 shape 0.151 recur 0.155 glyph 7.469 via row  -> REVIEW-2: round blobs, no strokes
+  0.36 b0800_w075             rev x5200   rows  15.0 fib 6.2 tex 0.97 crack 0.7 shape 0.055 recur 0.147 glyph 10.445 via row  -> REVIEW-2: round blobs, no strokes
+  0.17 b0800_w061             fwd x3900   rows   5.0 fib 8.8 tex 0.98 crack 0.8 shape 0.192 recur 0.281 glyph 10.641 via row  -> REVIEW-2: round blobs, no strokes
+ -0.05 b0800_w086             rev x9100   rows  15.0 fib 3.8 tex 0.95 crack 0.27 shape 0.133 recur 0.131 glyph 9.258 via row  -> REVIEW-2: round blobs, no strokes
+ -0.24 b0800_w072             rev x0      rows  15.0 fib 6.2 tex 1.1 crack 0.42 shape 0.156 recur 0.268 glyph 5.406 via row  -> REVIEW-2: round blobs, no strokes
+ -0.60 b0800_w064             fwd x1300   rows  15.0 fib 6.2 tex 1.01 crack 0.0 shape 0.067 recur 0.142 glyph 10.117 via row  -> REVIEW-2: round blobs, no strokes
+ -0.62 b0800_w063             fwd x5200   rows  10.0 fib 6.2 tex 1.06 crack 1.25 shape 0.141 recur 0.25 glyph 9.812 via row  -> REVIEW-2: round blobs, no strokes
+ -0.65 b0800_w057             rev x2600   rows  15.0 fib 1.2 tex 0.98 crack 1.07 shape 0.125 recur 0.129 glyph 7.957 via row  -> REVIEW-2: round blobs, no strokes
+ -0.65 b0800_w078             rev x2600   rows  10.0 fib 1.2 tex 0.96 crack 2.41 shape 0.332 recur 0.433 glyph 9.875 via row  -> REVIEW-2: on cracks, repeats on w+-2 (structure)
+ -0.78 b0800_w065             rev x0      rows  10.0 fib 8.8 tex 1.07 crack 0.14 shape 0.123 recur 0.061 glyph 7.387 via row  -> REVIEW-2: round blobs, no strokes
+ -0.82 b0800_w069             rev x2600   rows   5.0 fib 6.2 tex 0.93 crack 0.74 shape 0.069 recur -0.037 glyph 5.441 via row  -> REVIEW-2: round blobs, no strokes
+ -1.09 b0800_w067             rev x2600   rows   5.0 fib 11.2 tex 0.96 crack 0.36 shape 0.199 recur -0.116 glyph 8.148 via row  -> REVIEW-2: round blobs, no strokes
+ -1.56 b0800_w078             fwd x2600   rows   0.0 fib 1.2 tex 0.96 crack 1.76 shape 0.354 recur 0.433 glyph 8.672 via row  -> REVIEW-2: on cracks, repeats on w+-2 (structure)
+  5.57 b0800_w086             rev x7800   rows   5.0 fib 6.2 tex 1.0 crack 0.65 shape 0.122 recur 0.324 glyph 9.289 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  2.78 b0800_w059             fwd x3900   rows  10.0 fib 6.2 tex 1.04 crack 0.68 shape 0.193 recur 0.413 glyph 10.367 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  2.52 b0800_w063             rev x0      rows  20.0 fib 6.2 tex 1.04 crack 4.25 shape 0.159 recur -0.232 glyph 11.289 via row  -> REVIEW-2: on cracks, round blobs, no strokes
+  2.52 b0800_w070             fwd x0      rows  15.0 fib 1.2 tex 1.1 crack 1.36 shape 0.0 recur 0.539 glyph 4.094 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  1.70 b0800_w077             rev x1300   rows  20.0 fib 6.2 tex 1.07 crack 1.68 shape 0.034 recur 0.278 glyph 6.371 via row  -> REVIEW-2: on cracks, round blobs, no strokes
+  0.59 b0800_w083             rev x0      rows  15.0 fib 3.8 tex 1.05 crack 0.55 shape 0.139 recur 0.67 glyph 9.789 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  0.54 b0800_w053             rev x1300   rows  20.0 fib 6.2 tex 1.01 crack 1.05 shape 0.179 recur 0.308 glyph 7.961 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  0.49 b0800_w087             fwd x9100   rows  10.0 fib 1.2 tex 0.91 crack 0.28 shape 0.132 recur 0.553 glyph 7.238 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  0.42 b0800_w057             rev x0      rows   5.0 fib 6.2 tex 1.01 crack 1.06 shape 0.0 recur 0.353 glyph 5.57 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  0.31 b0800_w078             fwd x0      rows  15.0 fib 8.8 tex 1.15 crack 0.61 shape 0.0 recur 0.511 glyph 4.645 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+  0.07 b0800_w071             fwd x5200   rows  20.0 fib 6.2 tex 1.02 crack 1.77 shape 0.163 recur 0.27 glyph 8.156 via row  -> REVIEW-2: on cracks, round blobs, no strokes
+ -0.03 b0800_w061             fwd x2600   rows   0.0 fib 3.8 tex 0.96 crack 0.77 shape 0.133 recur 0.396 glyph 11.695 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+ -0.16 b0800_w054             rev x3900   rows   0.0 fib 6.2 tex 1.09 crack 0.0 shape 0.123 recur 0.475 glyph 9.023 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+ -0.38 b0800_w050             rev x2600   rows   5.0 fib 1.2 tex 0.98 crack 0.42 shape 0.198 recur 0.344 glyph 8.516 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+ -0.51 b0800_w078             rev x1300   rows  15.0 fib 6.2 tex 1.06 crack 0.7 shape 0.194 recur 0.452 glyph 9.953 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+ -0.57 b0800_w070             rev x0      rows  10.0 fib 1.2 tex 1.1 crack 1.07 shape 0.177 recur 0.539 glyph 7.586 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+ -0.99 b0800_w054             rev x5200   rows  10.0 fib 8.8 tex 1.13 crack 0.87 shape 0.0 recur 0.456 glyph 6.898 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+ -1.24 b0800_w068             rev x1300   rows  10.0 fib 3.8 tex 0.99 crack 0.99 shape 0.183 recur 0.493 glyph 8.805 via row  -> REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)
+ -0.62 b0800_w079             fwd x7800   rows  15.0 fib 6.2 tex 1.01 crack 2.37 shape 0.141 recur 0.587 glyph 9.453 via row  -> REVIEW-2: on cracks, round blobs, no strokes, repeats on w+-2 (structure)
+ -0.95 b0800_w060             fwd x2600   rows   5.0 fib 1.2 tex 0.99 crack 1.53 shape 0.199 recur 0.359 glyph 9.641 via row  -> REVIEW-2: on cracks, round blobs, no strokes, repeats on w+-2 (structure)
+ 14.22 b0800_w082             fwd x5200   rows  75.0 fib 3.8 tex 0.88 crack None shape None recur None glyph 11.578 via row  -> auto-reject: rows not along winding
+ 13.30 b0800_w075             fwd x6500   rows  80.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 10.086 via row  -> auto-reject: rows not along winding
+ 11.78 b0800_w059             rev x3900   rows  80.0 fib 6.2 tex 1.04 crack None shape None recur None glyph 9.438 via row  -> auto-reject: rows not along winding
+ 10.14 b0800_w072             fwd x3900   rows  40.0 fib 3.8 tex 0.9 crack None shape None recur None glyph 9.086 via row  -> auto-reject: rows not along winding
+  6.18 b0800_w080             fwd x5200   rows  80.0 fib 1.2 tex 0.92 crack None shape None recur None glyph 10.43 via row  -> auto-reject: rows not along winding
+  6.05 b0800_w054             fwd x2600   rows  90.0 fib 3.8 tex 1.03 crack None shape None recur None glyph 9.438 via row  -> auto-reject: rows not along winding
+  5.55 b0800_w064             rev x0      rows  50.0 fib 3.8 tex 1.07 crack None shape None recur None glyph 11.047 via row  -> auto-reject: rows not along winding
+  5.52 b0800_w066             rev x3900   rows  25.0 fib 1.2 tex 1.0 crack None shape None recur None glyph 8.82 via row  -> auto-reject: rows not along winding
+  5.39 b0800_w056             fwd x5200   rows  45.0 fib 11.2 tex 1.06 crack None shape None recur None glyph 9.453 via row  -> auto-reject: rows not along winding
+  5.00 b0800_w054             fwd x0      rows  70.0 fib 11.2 tex 1.02 crack None shape None recur None glyph 6.887 via row  -> auto-reject: rows not along winding
+  4.86 b0800_w052             fwd x1300   rows  40.0 fib 8.8 tex 1.01 crack None shape None recur None glyph 9.867 via row  -> auto-reject: rows not along winding
+  4.75 b0800_w063             fwd x6500   rows  85.0 fib 6.2 tex 1.13 crack None shape None recur None glyph 10.586 via row  -> auto-reject: rows not along winding
+  4.49 b0800_w064             fwd x6500   rows  85.0 fib 8.8 tex 1.14 crack None shape None recur None glyph 9.352 via row  -> auto-reject: rows not along winding
+  4.48 b0800_w069             rev x5200   rows  60.0 fib 6.2 tex 1.03 crack None shape None recur None glyph 7.336 via row  -> auto-reject: rows not along winding
+  4.24 b0800_w072             fwd x1300   rows  25.0 fib 23.8 tex 0.98 crack None shape None recur None glyph 8.945 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  3.97 b0800_w066             rev x1300   rows  25.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 10.953 via row  -> auto-reject: rows not along winding
+  3.74 b0800_w088             fwd x7800   rows  90.0 fib 1.2 tex 0.95 crack None shape None recur None glyph 10.953 via row  -> auto-reject: rows not along winding
+  3.58 b0800_w070             fwd x1300   rows  75.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 7.332 via row  -> auto-reject: rows not along winding
+  3.49 b0800_w051             fwd x2600   rows  80.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 9.5 via row  -> auto-reject: rows not along winding
+  3.48 b0800_w064             rev x5200   rows  75.0 fib 3.8 tex 1.09 crack None shape None recur None glyph 9.344 via row  -> auto-reject: rows not along winding
+  3.45 b0800_w086             fwd x3900   rows  40.0 fib 1.2 tex 0.89 crack None shape None recur None glyph 7.707 via row  -> auto-reject: rows not along winding
+  3.26 b0800_w086             rev x2600   rows  35.0 fib 18.8 tex 0.95 crack None shape None recur None glyph 6.602 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  3.18 b0800_w070             rev x3900   rows  25.0 fib 13.8 tex 0.96 crack None shape None recur None glyph 6.551 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  3.16 b0800_w056             fwd x0      rows  90.0 fib 3.8 tex 1.04 crack None shape None recur None glyph 9.242 via row  -> auto-reject: rows not along winding
+  3.11 b0800_w056             fwd x1300   rows  40.0 fib 1.2 tex 1.02 crack None shape None recur None glyph 9.953 via row  -> auto-reject: rows not along winding
+  2.89 b0800_w079             rev x0      rows  35.0 fib 6.2 tex 0.94 crack None shape None recur None glyph 1.213 via row  -> auto-reject: rows not along winding
+  2.77 b0800_w075             fwd x1300   rows  75.0 fib 6.2 tex 0.99 crack None shape None recur None glyph 8.125 via row  -> auto-reject: rows not along winding
+  2.75 b0800_w076             fwd x7800   rows  70.0 fib 6.2 tex 1.17 crack None shape None recur None glyph 11.828 via row  -> auto-reject: rows not along winding
+  2.58 b0800_w083             rev x7800   rows  70.0 fib 3.8 tex 1.11 crack None shape None recur None glyph 7.539 via row  -> auto-reject: rows not along winding
+  2.51 b0800_w067             fwd x6500   rows  80.0 fib 6.2 tex 1.14 crack None shape None recur None glyph 5.418 via row  -> auto-reject: rows not along winding
+  2.43 b0800_w066             fwd x3900   rows  25.0 fib 1.2 tex 1.0 crack None shape None recur None glyph 13.125 via row  -> auto-reject: rows not along winding
+  2.33 b0800_w050             rev x0      rows  75.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 8.805 via row  -> auto-reject: rows not along winding
+  2.22 b0800_w082             rev x0      rows  75.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 8.438 via row  -> auto-reject: rows not along winding
+  2.20 b0800_w054             rev x0      rows  85.0 fib 11.2 tex 1.02 crack None shape None recur None glyph 6.262 via row  -> auto-reject: rows not along winding
+  2.15 b0800_w066             rev x6500   rows  85.0 fib 6.2 tex 1.18 crack None shape None recur None glyph 8.797 via row  -> auto-reject: rows not along winding
+  2.11 b0800_w087             rev x2600   rows  65.0 fib 16.2 tex 0.95 crack None shape None recur None glyph 8.039 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  2.02 b0800_w073             rev x5200   rows  75.0 fib 6.2 tex 0.99 crack None shape None recur None glyph 9.125 via row  -> auto-reject: rows not along winding
+  1.96 b0800_w076             rev x7800   rows  70.0 fib 6.2 tex 1.17 crack None shape None recur None glyph 9.117 via row  -> auto-reject: rows not along winding
+  1.96 b0800_w081             rev x1300   rows  65.0 fib 6.2 tex 0.96 crack None shape None recur None glyph 9.664 via row  -> auto-reject: rows not along winding
+  1.93 b0800_w055             rev x0      rows  70.0 fib 8.8 tex 1.07 crack None shape None recur None glyph 8.867 via row  -> auto-reject: rows not along winding
+  1.93 b0800_w087             fwd x7800   rows  90.0 fib 1.2 tex 0.94 crack None shape None recur None glyph 11.625 via row  -> auto-reject: rows not along winding
+  1.85 b0800_w086             rev x1300   rows  40.0 fib 13.8 tex 0.97 crack None shape None recur None glyph 9.203 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  1.84 b0800_w084             rev x9100   rows  25.0 fib 1.2 tex 1.08 crack None shape None recur None glyph 9.602 via row  -> auto-reject: rows not along winding
+  1.81 b0800_w065             fwd x6500   rows  85.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 11.75 via row  -> auto-reject: rows not along winding
+  1.80 b0800_w050             fwd x0      rows  80.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 11.086 via row  -> auto-reject: rows not along winding
+  1.77 b0800_w082             rev x3900   rows  75.0 fib 1.2 tex 0.87 crack None shape None recur None glyph 9.484 via row  -> auto-reject: rows not along winding
+  1.69 b0800_w074             rev x0      rows  75.0 fib 6.2 tex 1.13 crack None shape None recur None glyph 10.492 via row  -> auto-reject: rows not along winding
+  1.67 b0800_w065             fwd x5200   rows  25.0 fib 6.2 tex 1.07 crack None shape None recur None glyph 9.719 via row  -> auto-reject: rows not along winding
+  1.66 b0800_w050             rev x1300   rows  30.0 fib 13.8 tex 0.98 crack None shape None recur None glyph 8.516 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  1.63 b0800_w062             rev x6500   rows  80.0 fib 1.2 tex 1.15 crack None shape None recur None glyph 8.547 via row  -> auto-reject: rows not along winding
+  1.63 b0800_w079             rev x7800   rows  25.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 8.797 via row  -> auto-reject: rows not along winding
+  1.58 b0800_w056             rev x1300   rows  30.0 fib 1.2 tex 1.02 crack None shape None recur None glyph 10.961 via row  -> auto-reject: rows not along winding
+  1.56 b0800_w082             rev x5200   rows  65.0 fib 3.8 tex 0.88 crack None shape None recur None glyph 10.781 via row  -> auto-reject: rows not along winding
+  1.54 b0800_w055             rev x1300   rows  65.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 9.562 via row  -> auto-reject: rows not along winding
+  1.52 b0800_w085             rev x5200   rows  15.0 fib 18.8 tex 0.83 crack None shape None recur None glyph 11.273 via row  -> auto-reject: sheet not flat (fold/crossing)
+  1.52 b0800_w088             fwd x0      rows  40.0 fib 8.8 tex 0.93 crack None shape None recur None glyph 10.711 via row  -> auto-reject: rows not along winding
+  1.48 b0800_w051             rev x0      rows  60.0 fib 6.2 tex 1.03 crack None shape None recur None glyph 7.008 via row  -> auto-reject: rows not along winding
+  1.42 b0800_w067             fwd x3900   rows  25.0 fib 3.8 tex 0.99 crack None shape None recur None glyph 11.859 via row  -> auto-reject: rows not along winding
+  1.41 b0800_w083             rev x3900   rows  25.0 fib 3.8 tex 0.85 crack None shape None recur None glyph 10.922 via row  -> auto-reject: rows not along winding
+  1.40 b0800_w067             fwd x2600   rows  75.0 fib 11.2 tex 0.96 crack None shape None recur None glyph 9.734 via row  -> auto-reject: rows not along winding
+  1.40 b0800_w089             fwd x7800   rows  75.0 fib 1.2 tex 0.97 crack None shape None recur None glyph 10.945 via row  -> auto-reject: rows not along winding
+  1.34 b0800_w067             fwd x5200   rows  25.0 fib 6.2 tex 1.09 crack None shape None recur None glyph 11.922 via row  -> auto-reject: rows not along winding
+  1.33 b0800_w076             rev x2600   rows  35.0 fib 3.8 tex 0.93 crack None shape None recur None glyph 10.047 via row  -> auto-reject: rows not along winding
+  1.32 b0800_w077             rev x3900   rows  65.0 fib 8.8 tex 0.88 crack None shape None recur None glyph 10.023 via row  -> auto-reject: rows not along winding
+  1.30 b0800_w052             rev x0      rows  45.0 fib 8.8 tex 1.04 crack None shape None recur None glyph 10.141 via row  -> auto-reject: rows not along winding
+  1.28 b0800_w069             rev x3900   rows  70.0 fib 1.2 tex 0.95 crack None shape None recur None glyph 4.996 via row  -> auto-reject: rows not along winding
+  1.21 b0800_w080             rev x1300   rows  70.0 fib 21.2 tex 0.93 crack None shape None recur None glyph 10.641 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  1.16 b0800_w081             rev x0      rows  80.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 7.711 via row  -> auto-reject: rows not along winding
+  1.15 b0800_w072             rev x1300   rows  20.0 fib 23.8 tex 0.98 crack None shape None recur None glyph 7.117 via row  -> auto-reject: sheet not flat (fold/crossing)
+  1.14 b0800_w087             rev x0      rows  80.0 fib 11.2 tex 1.0 crack None shape None recur None glyph 10.812 via row  -> auto-reject: rows not along winding
+  1.12 b0800_w070             fwd x6500   rows  90.0 fib 6.2 tex 1.12 crack None shape None recur None glyph 8.602 via row  -> auto-reject: rows not along winding
+  1.08 b0800_w087             rev x1300   rows  85.0 fib 11.2 tex 0.97 crack None shape None recur None glyph 10.727 via row  -> auto-reject: rows not along winding
+  1.05 b0800_w068             fwd x3900   rows  25.0 fib 1.2 tex 0.97 crack None shape None recur None glyph 12.438 via row  -> auto-reject: rows not along winding
+  1.01 b0800_w088             fwd x1300   rows   5.0 fib 13.8 tex 0.92 crack None shape None recur None glyph 6.758 via row  -> auto-reject: sheet not flat (fold/crossing)
+  0.99 b0800_w050             rev x3900   rows  50.0 fib 8.8 tex 1.01 crack None shape None recur None glyph 9.398 via row  -> auto-reject: rows not along winding
+  0.95 b0800_w052             rev x2600   rows  85.0 fib 3.8 tex 1.02 crack None shape None recur None glyph 7.867 via row  -> auto-reject: rows not along winding
+  0.94 b0800_w067             rev x1300   rows  25.0 fib 8.8 tex 1.01 crack None shape None recur None glyph 8.539 via row  -> auto-reject: rows not along winding
+  0.91 b0800_w089             rev x9100   rows  25.0 fib 1.2 tex 0.91 crack None shape None recur None glyph 9.883 via row  -> auto-reject: rows not along winding
+  0.89 b0800_w079             rev x1300   rows  35.0 fib 8.8 tex 0.93 crack None shape None recur None glyph 6.305 via row  -> auto-reject: rows not along winding
+  0.88 b0800_w083             fwd x7800   rows  70.0 fib 3.8 tex 1.11 crack None shape None recur None glyph 8.18 via row  -> auto-reject: rows not along winding
+  0.86 b0800_w067             rev x0      rows  70.0 fib 1.2 tex 1.13 crack None shape None recur None glyph 6.07 via row  -> auto-reject: rows not along winding
+  0.86 b0800_w082             rev x6500   rows  55.0 fib 1.2 tex 1.02 crack None shape None recur None glyph 10.781 via row  -> auto-reject: rows not along winding
+  0.85 b0800_w072             fwd x7800   rows  25.0 fib 6.2 tex 1.25 crack None shape None recur None glyph 7.418 via row  -> auto-reject: rows not along winding
+  0.84 b0800_w084             rev x3900   rows  35.0 fib 13.8 tex 0.87 crack None shape None recur None glyph 12.898 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.83 b0800_w084             fwd x0      rows  50.0 fib 6.2 tex 1.05 crack None shape None recur None glyph 10.438 via row  -> auto-reject: rows not along winding
+  0.80 b0800_w069             rev x6500   rows  25.0 fib 11.2 tex 1.07 crack None shape None recur None glyph 10.195 via row  -> auto-reject: rows not along winding
+  0.79 b0800_w051             rev x2600   rows  85.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 10.336 via row  -> auto-reject: rows not along winding
+  0.79 b0800_w086             fwd x5200   rows  40.0 fib 16.2 tex 0.83 crack None shape None recur None glyph 8.523 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.78 b0800_w074             fwd x3900   rows  30.0 fib 3.8 tex 0.91 crack None shape None recur None glyph 12.672 via row  -> auto-reject: rows not along winding
+  0.77 b0800_w061             fwd x1300   rows  70.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 8.469 via row  -> auto-reject: rows not along winding
+  0.77 b0800_w070             fwd x2600   rows  85.0 fib 11.2 tex 0.95 crack None shape None recur None glyph 8.117 via row  -> auto-reject: rows not along winding
+  0.72 b0800_w059             rev x2600   rows  80.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 7.086 via row  -> auto-reject: rows not along winding
+  0.72 b0800_w072             rev x3900   rows  25.0 fib 3.8 tex 0.9 crack None shape None recur None glyph 11.828 via row  -> auto-reject: rows not along winding
+  0.68 b0800_w065             fwd x2600   rows  75.0 fib 6.2 tex 0.92 crack None shape None recur None glyph 9.68 via row  -> auto-reject: rows not along winding
+  0.68 b0800_w066             fwd x1300   rows  25.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 10.391 via row  -> auto-reject: rows not along winding
+  0.67 b0800_w071             rev x5200   rows  80.0 fib 6.2 tex 1.02 crack None shape None recur None glyph 12.312 via row  -> auto-reject: rows not along winding
+  0.66 b0800_w054             fwd x1300   rows  65.0 fib 1.2 tex 1.01 crack None shape None recur None glyph 8.82 via row  -> auto-reject: rows not along winding
+  0.66 b0800_w063             rev x6500   rows  70.0 fib 6.2 tex 1.13 crack None shape None recur None glyph 10.703 via row  -> auto-reject: rows not along winding
+  0.66 b0800_w070             fwd x5200   rows  45.0 fib 6.2 tex 1.06 crack None shape None recur None glyph 8.484 via row  -> auto-reject: rows not along winding
+  0.65 b0800_w080             rev x5200   rows  55.0 fib 1.2 tex 0.92 crack None shape None recur None glyph 9.797 via row  -> auto-reject: rows not along winding
+  0.63 b0800_w065             rev x6500   rows  75.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 8.883 via row  -> auto-reject: rows not along winding
+  0.63 b0800_w086             rev x5200   rows  35.0 fib 16.2 tex 0.83 crack None shape None recur None glyph 8.578 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.61 b0800_w083             fwd x0      rows  75.0 fib 3.8 tex 1.05 crack None shape None recur None glyph 10.977 via row  -> auto-reject: rows not along winding
+  0.60 b0800_w086             fwd x2600   rows  30.0 fib 18.8 tex 0.95 crack None shape None recur None glyph 10.203 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.59 b0800_w071             fwd x3900   rows  30.0 fib 8.8 tex 0.93 crack None shape None recur None glyph 10.266 via row  -> auto-reject: rows not along winding
+  0.59 b0800_w071             rev x2600   rows  25.0 fib 6.2 tex 0.93 crack None shape None recur None glyph 6.676 via row  -> auto-reject: rows not along winding
+  0.58 b0800_w054             rev x1300   rows  75.0 fib 1.2 tex 1.01 crack None shape None recur None glyph 11.336 via row  -> auto-reject: rows not along winding
+  0.55 b0800_w077             fwd x7800   rows  80.0 fib 6.2 tex 1.13 crack None shape None recur None glyph 9.461 via row  -> auto-reject: rows not along winding
+  0.54 b0800_w072             fwd x2600   rows  30.0 fib 8.8 tex 0.91 crack None shape None recur None glyph 9.766 via row  -> auto-reject: rows not along winding
+  0.53 b0800_w062             fwd x3900   rows  50.0 fib 6.2 tex 0.98 crack None shape None recur None glyph 11.039 via row  -> auto-reject: rows not along winding
+  0.53 b0800_w084             fwd x6500   rows  85.0 fib 3.8 tex 0.96 crack None shape None recur None glyph 13.852 via row  -> auto-reject: rows not along winding
+  0.53 b0800_w086             rev x0      rows  80.0 fib 8.8 tex 1.01 crack None shape None recur None glyph 9.023 via row  -> auto-reject: rows not along winding
+  0.51 b0800_w085             fwd x5200   rows  40.0 fib 18.8 tex 0.83 crack None shape None recur None glyph 9.148 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.49 b0800_w058             rev x2600   rows  65.0 fib 6.2 tex 0.98 crack None shape None recur None glyph 9.43 via row  -> auto-reject: rows not along winding
+  0.49 b0800_w084             fwd x9100   rows  75.0 fib 1.2 tex 1.08 crack None shape None recur None glyph 7.125 via row  -> auto-reject: rows not along winding
+  0.48 b0800_w055             fwd x1300   rows  65.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 7.383 via row  -> auto-reject: rows not along winding
+  0.46 b0800_w083             rev x9100   rows  25.0 fib 1.2 tex 1.09 crack None shape None recur None glyph 9.172 via row  -> auto-reject: rows not along winding
+  0.44 b0800_w077             fwd x3900   rows  80.0 fib 8.8 tex 0.88 crack None shape None recur None glyph 10.25 via row  -> auto-reject: rows not along winding
+  0.43 b0800_w086             fwd x1300   rows  20.0 fib 13.8 tex 0.97 crack None shape None recur None glyph 10.203 via row  -> auto-reject: sheet not flat (fold/crossing)
+  0.41 b0800_w056             rev x0      rows  45.0 fib 3.8 tex 1.04 crack None shape None recur None glyph 8.43 via row  -> auto-reject: rows not along winding
+  0.41 b0800_w066             rev x2600   rows  35.0 fib 3.8 tex 0.94 crack None shape None recur None glyph 10.953 via row  -> auto-reject: rows not along winding
+  0.41 b0800_w069             fwd x3900   rows  85.0 fib 1.2 tex 0.95 crack None shape None recur None glyph 10.227 via row  -> auto-reject: rows not along winding
+  0.41 b0800_w081             fwd x7800   rows  75.0 fib 6.2 tex 1.06 crack None shape None recur None glyph 5.938 via row  -> auto-reject: rows not along winding
+  0.41 b0800_w085             fwd x0      rows  50.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 7.969 via row  -> auto-reject: rows not along winding
+  0.40 b0800_w074             rev x7800   rows  60.0 fib 3.8 tex 1.19 crack None shape None recur None glyph 7.668 via row  -> auto-reject: rows not along winding
+  0.39 b0800_w089             rev x6500   rows  30.0 fib 3.8 tex 0.93 crack None shape None recur None glyph 10.547 via row  -> auto-reject: rows not along winding
+  0.37 b0800_w062             fwd x6500   rows  70.0 fib 1.2 tex 1.15 crack None shape None recur None glyph 10.203 via row  -> auto-reject: rows not along winding
+  0.35 b0800_w065             fwd x1300   rows  25.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 9.68 via row  -> auto-reject: rows not along winding
+  0.34 b0800_w060             fwd x0      rows  50.0 fib 3.8 tex 1.04 crack None shape None recur None glyph 5.266 via row  -> auto-reject: rows not along winding
+  0.34 b0800_w073             rev x0      rows  75.0 fib 3.8 tex 1.1 crack None shape None recur None glyph 8.602 via row  -> auto-reject: rows not along winding
+  0.34 b0800_w084             fwd x3900   rows  35.0 fib 13.8 tex 0.87 crack None shape None recur None glyph 11.203 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.34 b0800_w084             rev x7800   rows  70.0 fib 3.8 tex 1.1 crack None shape None recur None glyph 7.211 via row  -> auto-reject: rows not along winding
+  0.34 b0800_w086             fwd x0      rows  50.0 fib 8.8 tex 1.01 crack None shape None recur None glyph 8.297 via row  -> auto-reject: rows not along winding
+  0.32 b0800_w064             rev x2600   rows  25.0 fib 1.2 tex 0.97 crack None shape None recur None glyph 9.305 via row  -> auto-reject: rows not along winding
+  0.31 b0800_w082             fwd x3900   rows  60.0 fib 1.2 tex 0.87 crack None shape None recur None glyph 10.984 via row  -> auto-reject: rows not along winding
+  0.31 b0800_w085             rev x2600   rows  75.0 fib 11.2 tex 0.97 crack None shape None recur None glyph 10.57 via row  -> auto-reject: rows not along winding
+  0.30 b0800_w079             fwd x2600   rows  55.0 fib 1.2 tex 0.94 crack None shape None recur None glyph 9.852 via row  -> auto-reject: rows not along winding
+  0.28 b0800_w088             rev x1300   rows   5.0 fib 13.8 tex 0.92 crack None shape None recur None glyph 8.828 via row  -> auto-reject: sheet not flat (fold/crossing)
+  0.24 b0800_w051             fwd x3900   rows  65.0 fib 6.2 tex 1.04 crack None shape None recur None glyph 9.188 via row  -> auto-reject: rows not along winding
+  0.24 b0800_w057             rev x5200   rows  65.0 fib 8.8 tex 1.1 crack None shape None recur None glyph 10.891 via row  -> auto-reject: rows not along winding
+  0.23 b0800_w052             fwd x2600   rows  85.0 fib 3.8 tex 1.02 crack None shape None recur None glyph 10.039 via row  -> auto-reject: rows not along winding
+  0.23 b0800_w061             fwd x5200   rows  80.0 fib 8.8 tex 1.1 crack None shape None recur None glyph 6.363 via row  -> auto-reject: rows not along winding
+  0.23 b0800_w068             rev x0      rows  65.0 fib 3.8 tex 1.1 crack None shape None recur None glyph 8.727 via row  -> auto-reject: rows not along winding
+  0.22 b0800_w079             fwd x5200   rows  80.0 fib 3.8 tex 0.93 crack None shape None recur None glyph 11.375 via row  -> auto-reject: rows not along winding
+  0.21 b0800_w055             rev x5200   rows  75.0 fib 8.8 tex 1.1 crack None shape None recur None glyph 10.391 via row  -> auto-reject: rows not along winding
+  0.21 b0800_w082             fwd x6500   rows  65.0 fib 1.2 tex 1.02 crack None shape None recur None glyph 10.711 via row  -> auto-reject: rows not along winding
+  0.20 b0800_w075             fwd x0      rows  60.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 7.023 via row  -> auto-reject: rows not along winding
+  0.19 b0800_w055             fwd x0      rows  65.0 fib 8.8 tex 1.07 crack None shape None recur None glyph 7.051 via row  -> auto-reject: rows not along winding
+  0.18 b0800_w057             fwd x0      rows  80.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 10.773 via row  -> auto-reject: rows not along winding
+  0.17 b0800_w089             rev x7800   rows  25.0 fib 1.2 tex 0.97 crack None shape None recur None glyph 10.797 via row  -> auto-reject: rows not along winding
+  0.15 b0800_w084             rev x2600   rows  35.0 fib 11.2 tex 0.96 crack None shape None recur None glyph 8.383 via row  -> auto-reject: rows not along winding
+  0.13 b0800_w062             rev x5200   rows  80.0 fib 6.2 tex 1.09 crack None shape None recur None glyph 8.359 via row  -> auto-reject: rows not along winding
+  0.13 b0800_w078             rev x3900   rows  45.0 fib 1.2 tex 0.87 crack None shape None recur None glyph 9.406 via row  -> auto-reject: rows not along winding
+  0.12 b0800_w050             fwd x2600   rows  80.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 10.516 via row  -> auto-reject: rows not along winding
+  0.11 b0800_w063             rev x1300   rows  70.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 11.266 via row  -> auto-reject: rows not along winding
+  0.11 b0800_w068             rev x6500   rows  75.0 fib 6.2 tex 1.07 crack None shape None recur None glyph 8.461 via row  -> auto-reject: rows not along winding
+  0.09 b0800_w072             fwd x6500   rows  30.0 fib 3.8 tex 1.2 crack None shape None recur None glyph 7.301 via row  -> auto-reject: rows not along winding
+  0.08 b0800_w070             rev x2600   rows  90.0 fib 11.2 tex 0.95 crack None shape None recur None glyph 4.691 via row  -> auto-reject: rows not along winding
+  0.08 b0800_w079             rev x3900   rows  30.0 fib 8.8 tex 0.89 crack None shape None recur None glyph 9.836 via row  -> auto-reject: rows not along winding
+  0.08 b0800_w079             rev x6500   rows  70.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 10.898 via row  -> auto-reject: rows not along winding
+  0.08 b0800_w084             fwd x5200   rows  75.0 fib 18.8 tex 0.83 crack None shape None recur None glyph 13.852 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.08 b0800_w087             rev x6500   rows  35.0 fib 8.8 tex 0.9 crack None shape None recur None glyph 12.578 via row  -> auto-reject: rows not along winding
+  0.07 b0800_w079             fwd x3900   rows  65.0 fib 8.8 tex 0.89 crack None shape None recur None glyph 9.914 via row  -> auto-reject: rows not along winding
+  0.07 b0800_w088             rev x2600   rows  65.0 fib 13.8 tex 0.93 crack None shape None recur None glyph 8.828 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+  0.05 b0800_w066             fwd x6500   rows  80.0 fib 6.2 tex 1.18 crack None shape None recur None glyph 7.648 via row  -> auto-reject: rows not along winding
+  0.05 b0800_w080             rev x0      rows  25.0 fib 6.2 tex 0.93 crack None shape None recur None glyph 9.922 via row  -> auto-reject: rows not along winding
+  0.05 b0800_w082             rev x7800   rows  70.0 fib 1.2 tex 1.09 crack None shape None recur None glyph 11.047 via row  -> auto-reject: rows not along winding
+  0.04 b0800_w065             rev x3900   rows  40.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 11.047 via row  -> auto-reject: rows not along winding
+  0.04 b0800_w085             fwd x2600   rows  75.0 fib 11.2 tex 0.97 crack None shape None recur None glyph 11.398 via row  -> auto-reject: rows not along winding
+  0.03 b0800_w076             fwd x6500   rows  90.0 fib 6.2 tex 1.11 crack None shape None recur None glyph 8.023 via row  -> auto-reject: rows not along winding
+  0.02 b0800_w082             fwd x7800   rows  80.0 fib 1.2 tex 1.09 crack None shape None recur None glyph 10.672 via row  -> auto-reject: rows not along winding
+  0.00 b0800_w080             rev x7800   rows  25.0 fib 3.8 tex 1.02 crack None shape None recur None glyph 9.891 via row  -> auto-reject: rows not along winding
+  0.00 b0800_w085             fwd x9100   rows  65.0 fib 3.8 tex 1.0 crack None shape None recur None glyph 10.836 via row  -> auto-reject: rows not along winding
+ -0.01 b0800_w078             fwd x5200   rows  70.0 fib 6.2 tex 0.9 crack None shape None recur None glyph 10.117 via row  -> auto-reject: rows not along winding
+ -0.02 b0800_w079             rev x2600   rows  70.0 fib 1.2 tex 0.94 crack None shape None recur None glyph 9.859 via row  -> auto-reject: rows not along winding
+ -0.02 b0800_w089             rev x3900   rows  65.0 fib 13.8 tex 0.92 crack None shape None recur None glyph 10.547 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -0.03 b0800_w083             fwd x5200   rows  25.0 fib 1.2 tex 0.84 crack None shape None recur None glyph 8.672 via row  -> auto-reject: rows not along winding
+ -0.04 b0800_w055             rev x3900   rows  90.0 fib 8.8 tex 1.07 crack None shape None recur None glyph 8.188 via row  -> auto-reject: rows not along winding
+ -0.06 b0800_w069             rev x0      rows  55.0 fib 1.2 tex 1.11 crack None shape None recur None glyph 7.906 via row  -> auto-reject: rows not along winding
+ -0.07 b0800_w060             fwd x5200   rows  30.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 10.906 via row  -> auto-reject: rows not along winding
+ -0.07 b0800_w066             rev x5200   rows  30.0 fib 1.2 tex 1.12 crack None shape None recur None glyph 7.812 via row  -> auto-reject: rows not along winding
+ -0.08 b0800_w051             rev x1300   rows  60.0 fib 8.8 tex 0.98 crack None shape None recur None glyph 8.828 via row  -> auto-reject: rows not along winding
+ -0.08 b0800_w053             fwd x3900   rows  80.0 fib 6.2 tex 1.07 crack None shape None recur None glyph 8.734 via row  -> auto-reject: rows not along winding
+ -0.08 b0800_w070             rev x6500   rows  50.0 fib 6.2 tex 1.12 crack None shape None recur None glyph 10.852 via row  -> auto-reject: rows not along winding
+ -0.08 b0800_w080             rev x2600   rows  25.0 fib 3.8 tex 0.94 crack None shape None recur None glyph 10.055 via row  -> auto-reject: rows not along winding
+ -0.09 b0800_w062             fwd x2600   rows  80.0 fib 3.8 tex 0.95 crack None shape None recur None glyph 9.953 via row  -> auto-reject: rows not along winding
+ -0.09 b0800_w078             fwd x3900   rows  75.0 fib 1.2 tex 0.87 crack None shape None recur None glyph 9.789 via row  -> auto-reject: rows not along winding
+ -0.09 b0800_w089             rev x5200   rows  50.0 fib 11.2 tex 0.86 crack None shape None recur None glyph 10.578 via row  -> auto-reject: rows not along winding
+ -0.10 b0800_w053             rev x3900   rows  70.0 fib 6.2 tex 1.07 crack None shape None recur None glyph 7.742 via row  -> auto-reject: rows not along winding
+ -0.10 b0800_w064             fwd x5200   rows  65.0 fib 3.8 tex 1.09 crack None shape None recur None glyph 8.617 via row  -> auto-reject: rows not along winding
+ -0.11 b0800_w062             rev x3900   rows  40.0 fib 6.2 tex 0.98 crack None shape None recur None glyph 8.852 via row  -> auto-reject: rows not along winding
+ -0.12 b0800_w082             rev x1300   rows  65.0 fib 8.8 tex 0.96 crack None shape None recur None glyph 10.953 via row  -> auto-reject: rows not along winding
+ -0.15 b0800_w079             rev x5200   rows  25.0 fib 3.8 tex 0.93 crack None shape None recur None glyph 10.898 via row  -> auto-reject: rows not along winding
+ -0.16 b0800_w071             rev x1300   rows  40.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 6.855 via row  -> auto-reject: rows not along winding
+ -0.16 b0800_w072             rev x7800   rows  30.0 fib 6.2 tex 1.25 crack None shape None recur None glyph 9.547 via row  -> auto-reject: rows not along winding
+ -0.16 b0800_w073             fwd x0      rows  30.0 fib 3.8 tex 1.1 crack None shape None recur None glyph 8.289 via row  -> auto-reject: rows not along winding
+ -0.18 b0800_w074             fwd x5200   rows  85.0 fib 6.2 tex 1.0 crack None shape None recur None glyph 6.395 via row  -> auto-reject: rows not along winding
+ -0.19 b0800_w060             rev x5200   rows  75.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 7.551 via row  -> auto-reject: rows not along winding
+ -0.19 b0800_w066             fwd x5200   rows  25.0 fib 1.2 tex 1.12 crack None shape None recur None glyph 9.914 via row  -> auto-reject: rows not along winding
+ -0.19 b0800_w081             fwd x6500   rows  70.0 fib 6.2 tex 1.02 crack None shape None recur None glyph 10.109 via row  -> auto-reject: rows not along winding
+ -0.20 b0800_w089             fwd x3900   rows  55.0 fib 13.8 tex 0.92 crack None shape None recur None glyph 7.668 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -0.22 b0800_w052             fwd x0      rows  40.0 fib 8.8 tex 1.04 crack None shape None recur None glyph 7.332 via row  -> auto-reject: rows not along winding
+ -0.22 b0800_w069             fwd x1300   rows  50.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 11.578 via row  -> auto-reject: rows not along winding
+ -0.23 b0800_w057             rev x3900   rows  70.0 fib 6.2 tex 1.06 crack None shape None recur None glyph 10.812 via row  -> auto-reject: rows not along winding
+ -0.23 b0800_w075             fwd x7800   rows  75.0 fib 6.2 tex 1.18 crack None shape None recur None glyph 10.109 via row  -> auto-reject: rows not along winding
+ -0.24 b0800_w068             fwd x6500   rows  70.0 fib 6.2 tex 1.07 crack None shape None recur None glyph 10.391 via row  -> auto-reject: rows not along winding
+ -0.24 b0800_w075             rev x1300   rows  75.0 fib 6.2 tex 0.99 crack None shape None recur None glyph 12.391 via row  -> auto-reject: rows not along winding
+ -0.24 b0800_w077             fwd x2600   rows  25.0 fib 6.2 tex 0.96 crack None shape None recur None glyph 10.172 via row  -> auto-reject: rows not along winding
+ -0.25 b0800_w064             rev x6500   rows  70.0 fib 8.8 tex 1.14 crack None shape None recur None glyph 9.344 via row  -> auto-reject: rows not along winding
+ -0.25 b0800_w077             rev x5200   rows  65.0 fib 6.2 tex 0.91 crack None shape None recur None glyph 11.812 via row  -> auto-reject: rows not along winding
+ -0.26 b0800_w088             rev x6500   rows  35.0 fib 1.2 tex 0.91 crack None shape None recur None glyph 9.875 via row  -> auto-reject: rows not along winding
+ -0.27 b0800_w054             fwd x5200   rows  80.0 fib 8.8 tex 1.13 crack None shape None recur None glyph 11.594 via row  -> auto-reject: rows not along winding
+ -0.27 b0800_w058             rev x0      rows  75.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 9.359 via row  -> auto-reject: rows not along winding
+ -0.28 b0800_w079             fwd x6500   rows  25.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 11.375 via row  -> auto-reject: rows not along winding
+ -0.28 b0800_w086             fwd x9100   rows  70.0 fib 3.8 tex 0.95 crack None shape None recur None glyph 10.766 via row  -> auto-reject: rows not along winding
+ -0.29 b0800_w052             rev x3900   rows  65.0 fib 6.2 tex 1.08 crack None shape None recur None glyph 7.918 via row  -> auto-reject: rows not along winding
+ -0.29 b0800_w060             rev x3900   rows  55.0 fib 6.2 tex 1.04 crack None shape None recur None glyph 9.094 via row  -> auto-reject: rows not along winding
+ -0.31 b0800_w051             fwd x0      rows  80.0 fib 6.2 tex 1.03 crack None shape None recur None glyph 8.383 via row  -> auto-reject: rows not along winding
+ -0.31 b0800_w073             fwd x6500   rows  60.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 10.25 via row  -> auto-reject: rows not along winding
+ -0.32 b0800_w066             rev x0      rows  80.0 fib 3.8 tex 1.12 crack None shape None recur None glyph 8.328 via row  -> auto-reject: rows not along winding
+ -0.32 b0800_w085             fwd x1300   rows  25.0 fib 6.2 tex 0.99 crack None shape None recur None glyph 8.203 via row  -> auto-reject: rows not along winding
+ -0.34 b0800_w055             fwd x3900   rows  35.0 fib 8.8 tex 1.07 crack None shape None recur None glyph 9.297 via row  -> auto-reject: rows not along winding
+ -0.34 b0800_w056             rev x2600   rows  40.0 fib 3.8 tex 1.02 crack None shape None recur None glyph 12.117 via row  -> auto-reject: rows not along winding
+ -0.35 b0800_w087             fwd x2600   rows  75.0 fib 16.2 tex 0.95 crack None shape None recur None glyph 10.578 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -0.37 b0800_w076             fwd x0      rows  80.0 fib 8.8 tex 1.12 crack None shape None recur None glyph 7.051 via row  -> auto-reject: rows not along winding
+ -0.38 b0800_w056             rev x3900   rows  30.0 fib 8.8 tex 1.07 crack None shape None recur None glyph 8.078 via row  -> auto-reject: rows not along winding
+ -0.38 b0800_w065             fwd x3900   rows  75.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 10.391 via row  -> auto-reject: rows not along winding
+ -0.38 b0800_w081             fwd x9100   rows  25.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 4.738 via row  -> auto-reject: rows not along winding
+ -0.40 b0800_w050             fwd x3900   rows  75.0 fib 8.8 tex 1.01 crack None shape None recur None glyph 8.719 via row  -> auto-reject: rows not along winding
+ -0.40 b0800_w085             rev x9100   rows  65.0 fib 3.8 tex 1.0 crack None shape None recur None glyph 7.961 via row  -> auto-reject: rows not along winding
+ -0.41 b0800_w089             fwd x1300   rows  80.0 fib 16.2 tex 0.86 crack None shape None recur None glyph 8.492 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -0.42 b0800_w074             fwd x1300   rows  75.0 fib 3.8 tex 0.99 crack None shape None recur None glyph 8.078 via row  -> auto-reject: rows not along winding
+ -0.43 b0800_w079             fwd x0      rows  35.0 fib 6.2 tex 0.94 crack None shape None recur None glyph 5.555 via row  -> auto-reject: rows not along winding
+ -0.45 b0800_w056             rev x5200   rows  85.0 fib 11.2 tex 1.06 crack None shape None recur None glyph 5.453 via row  -> auto-reject: rows not along winding
+ -0.46 b0800_w081             fwd x2600   rows  70.0 fib 3.8 tex 0.93 crack None shape None recur None glyph 10.594 via row  -> auto-reject: rows not along winding
+ -0.47 b0800_w058             fwd x0      rows  55.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 8.062 via row  -> auto-reject: rows not along winding
+ -0.48 b0800_w061             rev x0      rows  60.0 fib 3.8 tex 1.04 crack None shape None recur None glyph 11.727 via row  -> auto-reject: rows not along winding
+ -0.48 b0800_w067             fwd x0      rows  65.0 fib 1.2 tex 1.13 crack None shape None recur None glyph 9.195 via row  -> auto-reject: rows not along winding
+ -0.51 b0800_w078             rev x0      rows  30.0 fib 8.8 tex 1.15 crack None shape None recur None glyph 10.047 via row  -> auto-reject: rows not along winding
+ -0.51 b0800_w083             fwd x6500   rows  80.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 8.297 via row  -> auto-reject: rows not along winding
+ -0.52 b0800_w076             rev x6500   rows  85.0 fib 6.2 tex 1.11 crack None shape None recur None glyph 10.516 via row  -> auto-reject: rows not along winding
+ -0.52 b0800_w082             fwd x1300   rows  25.0 fib 8.8 tex 0.96 crack None shape None recur None glyph 10.008 via row  -> auto-reject: rows not along winding
+ -0.54 b0800_w059             rev x5200   rows  75.0 fib 6.2 tex 1.09 crack None shape None recur None glyph 9.297 via row  -> auto-reject: rows not along winding
+ -0.55 b0800_w058             rev x5200   rows  65.0 fib 8.8 tex 1.08 crack None shape None recur None glyph 8.359 via row  -> auto-reject: rows not along winding
+ -0.55 b0800_w061             fwd x0      rows  60.0 fib 3.8 tex 1.04 crack None shape None recur None glyph 5.395 via row  -> auto-reject: rows not along winding
+ -0.55 b0800_w064             fwd x0      rows  25.0 fib 3.8 tex 1.07 crack None shape None recur None glyph 3.098 via row  -> auto-reject: rows not along winding
+ -0.56 b0800_w053             rev x0      rows  80.0 fib 3.8 tex 1.03 crack None shape None recur None glyph 7.648 via row  -> auto-reject: rows not along winding
+ -0.57 b0800_w053             rev x5200   rows  65.0 fib 8.8 tex 1.14 crack None shape None recur None glyph 5.539 via row  -> auto-reject: rows not along winding
+ -0.57 b0800_w070             rev x1300   rows  45.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 7.949 via row  -> auto-reject: rows not along winding
+ -0.58 b0800_w054             rev x2600   rows  80.0 fib 3.8 tex 1.03 crack None shape None recur None glyph 8.648 via row  -> auto-reject: rows not along winding
+ -0.58 b0800_w078             rev x6500   rows  65.0 fib 3.8 tex 1.03 crack None shape None recur None glyph 11.391 via row  -> auto-reject: rows not along winding
+ -0.59 b0800_w078             fwd x6500   rows  75.0 fib 3.8 tex 1.03 crack None shape None recur None glyph 10.117 via row  -> auto-reject: rows not along winding
+ -0.61 b0800_w066             fwd x0      rows  75.0 fib 3.8 tex 1.12 crack None shape None recur None glyph 9.078 via row  -> auto-reject: rows not along winding
+ -0.64 b0800_w083             fwd x1300   rows  45.0 fib 6.2 tex 0.99 crack None shape None recur None glyph 11.203 via row  -> auto-reject: rows not along winding
+ -0.67 b0800_w063             fwd x1300   rows  45.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 9.625 via row  -> auto-reject: rows not along winding
+ -0.67 b0800_w071             fwd x6500   rows  70.0 fib 3.8 tex 1.14 crack None shape None recur None glyph 7.75 via row  -> auto-reject: rows not along winding
+ -0.67 b0800_w083             fwd x2600   rows  80.0 fib 3.8 tex 0.94 crack None shape None recur None glyph 11.898 via row  -> auto-reject: rows not along winding
+ -0.68 b0800_w075             fwd x3900   rows  75.0 fib 3.8 tex 0.87 crack None shape None recur None glyph 9.43 via row  -> auto-reject: rows not along winding
+ -0.68 b0800_w089             fwd x6500   rows  85.0 fib 3.8 tex 0.93 crack None shape None recur None glyph 9.492 via row  -> auto-reject: rows not along winding
+ -0.69 b0800_w081             fwd x0      rows  25.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 10.945 via row  -> auto-reject: rows not along winding
+ -0.69 b0800_w081             fwd x5200   rows  75.0 fib 1.2 tex 0.89 crack None shape None recur None glyph 10.109 via row  -> auto-reject: rows not along winding
+ -0.71 b0800_w050             fwd x1300   rows  20.0 fib 13.8 tex 0.98 crack None shape None recur None glyph 11.016 via row  -> auto-reject: sheet not flat (fold/crossing)
+ -0.71 b0800_w059             fwd x2600   rows  55.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 10.414 via row  -> auto-reject: rows not along winding
+ -0.71 b0800_w073             rev x2600   rows  45.0 fib 3.8 tex 0.91 crack None shape None recur None glyph 8.375 via row  -> auto-reject: rows not along winding
+ -0.73 b0800_w057             fwd x3900   rows  75.0 fib 6.2 tex 1.06 crack None shape None recur None glyph 7.602 via row  -> auto-reject: rows not along winding
+ -0.73 b0800_w081             rev x7800   rows  80.0 fib 6.2 tex 1.06 crack None shape None recur None glyph 8.984 via row  -> auto-reject: rows not along winding
+ -0.74 b0800_w062             rev x2600   rows  70.0 fib 3.8 tex 0.95 crack None shape None recur None glyph 9.016 via row  -> auto-reject: rows not along winding
+ -0.76 b0800_w074             rev x3900   rows  25.0 fib 3.8 tex 0.91 crack None shape None recur None glyph 9.93 via row  -> auto-reject: rows not along winding
+ -0.76 b0800_w082             rev x9100   rows  65.0 fib 1.2 tex 1.06 crack None shape None recur None glyph 9.094 via row  -> auto-reject: rows not along winding
+ -0.76 b0800_w083             rev x5200   rows  80.0 fib 1.2 tex 0.84 crack None shape None recur None glyph 10.758 via row  -> auto-reject: rows not along winding
+ -0.77 b0800_w074             fwd x7800   rows  45.0 fib 3.8 tex 1.19 crack None shape None recur None glyph 10.812 via row  -> auto-reject: rows not along winding
+ -0.79 b0800_w057             fwd x1300   rows  60.0 fib 1.2 tex 0.98 crack None shape None recur None glyph 10.922 via row  -> auto-reject: rows not along winding
+ -0.79 b0800_w081             rev x5200   rows  65.0 fib 1.2 tex 0.89 crack None shape None recur None glyph 10.633 via row  -> auto-reject: rows not along winding
+ -0.80 b0800_w052             rev x1300   rows  25.0 fib 8.8 tex 1.01 crack None shape None recur None glyph 10.43 via row  -> auto-reject: rows not along winding
+ -0.80 b0800_w070             rev x5200   rows  25.0 fib 6.2 tex 1.06 crack None shape None recur None glyph 8.688 via row  -> auto-reject: rows not along winding
+ -0.80 b0800_w071             rev x3900   rows  70.0 fib 8.8 tex 0.93 crack None shape None recur None glyph 9.828 via row  -> auto-reject: rows not along winding
+ -0.80 b0800_w073             rev x1300   rows  65.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 8.727 via row  -> auto-reject: rows not along winding
+ -0.81 b0800_w063             rev x2600   rows  65.0 fib 3.8 tex 0.95 crack None shape None recur None glyph 8.734 via row  -> auto-reject: rows not along winding
+ -0.81 b0800_w080             fwd x2600   rows  75.0 fib 3.8 tex 0.94 crack None shape None recur None glyph 8.0 via row  -> auto-reject: rows not along winding
+ -0.82 b0800_w051             rev x3900   rows  25.0 fib 6.2 tex 1.04 crack None shape None recur None glyph 8.688 via row  -> auto-reject: rows not along winding
+ -0.83 b0800_w069             rev x1300   rows  35.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 7.727 via row  -> auto-reject: rows not along winding
+ -0.84 b0800_w081             fwd x3900   rows  50.0 fib 6.2 tex 0.89 crack None shape None recur None glyph 9.953 via row  -> auto-reject: rows not along winding
+ -0.84 b0800_w088             rev x3900   rows  75.0 fib 11.2 tex 0.91 crack None shape None recur None glyph 8.875 via row  -> auto-reject: rows not along winding
+ -0.85 b0800_w088             fwd x2600   rows  65.0 fib 13.8 tex 0.93 crack None shape None recur None glyph 7.562 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -0.86 b0800_w073             rev x6500   rows  75.0 fib 6.2 tex 1.15 crack None shape None recur None glyph 9.281 via row  -> auto-reject: rows not along winding
+ -0.89 b0800_w053             rev x2600   rows  85.0 fib 3.8 tex 1.01 crack None shape None recur None glyph 7.418 via row  -> auto-reject: rows not along winding
+ -0.89 b0800_w058             rev x3900   rows  65.0 fib 8.8 tex 1.04 crack None shape None recur None glyph 8.516 via row  -> auto-reject: rows not along winding
+ -0.89 b0800_w064             fwd x2600   rows  65.0 fib 1.2 tex 0.97 crack None shape None recur None glyph 11.164 via row  -> auto-reject: rows not along winding
+ -0.89 b0800_w087             rev x7800   rows  90.0 fib 1.2 tex 0.94 crack None shape None recur None glyph 9.422 via row  -> auto-reject: rows not along winding
+ -0.90 b0800_w085             rev x3900   rows  80.0 fib 1.2 tex 0.89 crack None shape None recur None glyph 8.273 via row  -> auto-reject: rows not along winding
+ -0.92 b0800_w059             rev x0      rows  35.0 fib 6.2 tex 1.02 crack None shape None recur None glyph 3.699 via row  -> auto-reject: rows not along winding
+ -0.92 b0800_w083             fwd x9100   rows  80.0 fib 1.2 tex 1.09 crack None shape None recur None glyph 8.18 via row  -> auto-reject: rows not along winding
+ -0.92 b0800_w084             rev x6500   rows  25.0 fib 3.8 tex 0.96 crack None shape None recur None glyph 9.953 via row  -> auto-reject: rows not along winding
+ -0.95 b0800_w062             fwd x0      rows  85.0 fib 3.8 tex 1.04 crack None shape None recur None glyph 4.41 via row  -> auto-reject: rows not along winding
+ -0.98 b0800_w064             fwd x3900   rows  40.0 fib 6.2 tex 1.0 crack None shape None recur None glyph 11.328 via row  -> auto-reject: rows not along winding
+ -0.98 b0800_w088             fwd x9100   rows  80.0 fib 1.2 tex 0.87 crack None shape None recur None glyph 6.477 via row  -> auto-reject: rows not along winding
+ -0.99 b0800_w063             fwd x0      rows  80.0 fib 6.2 tex 1.04 crack None shape None recur None glyph 0.379 via row  -> auto-reject: rows not along winding
+ -0.99 b0800_w076             rev x1300   rows  55.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 10.789 via row  -> auto-reject: rows not along winding
+ -1.00 b0800_w069             fwd x2600   rows  25.0 fib 6.2 tex 0.93 crack None shape None recur None glyph 11.578 via row  -> auto-reject: rows not along winding
+ -1.01 b0800_w084             fwd x2600   rows  75.0 fib 11.2 tex 0.96 crack None shape None recur None glyph 9.609 via row  -> auto-reject: rows not along winding
+ -1.04 b0800_w077             rev x2600   rows  25.0 fib 6.2 tex 0.96 crack None shape None recur None glyph 6.926 via row  -> auto-reject: rows not along winding
+ -1.05 b0800_w052             fwd x3900   rows  75.0 fib 6.2 tex 1.08 crack None shape None recur None glyph 9.484 via row  -> auto-reject: rows not along winding
+ -1.05 b0800_w058             fwd x5200   rows  60.0 fib 8.8 tex 1.08 crack None shape None recur None glyph 6.488 via row  -> auto-reject: rows not along winding
+ -1.05 b0800_w076             rev x3900   rows  35.0 fib 8.8 tex 0.87 crack None shape None recur None glyph 10.891 via row  -> auto-reject: rows not along winding
+ -1.05 b0800_w080             fwd x6500   rows  25.0 fib 3.8 tex 1.01 crack None shape None recur None glyph 10.43 via row  -> auto-reject: rows not along winding
+ -1.07 b0800_w083             rev x6500   rows  80.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 7.719 via row  -> auto-reject: rows not along winding
+ -1.07 b0800_w084             rev x5200   rows  40.0 fib 18.8 tex 0.83 crack None shape None recur None glyph 12.836 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -1.09 b0800_w059             fwd x1300   rows  50.0 fib 3.8 tex 0.97 crack None shape None recur None glyph 7.273 via row  -> auto-reject: rows not along winding
+ -1.09 b0800_w068             rev x5200   rows  80.0 fib 6.2 tex 1.03 crack None shape None recur None glyph 9.703 via row  -> auto-reject: rows not along winding
+ -1.09 b0800_w073             fwd x2600   rows  85.0 fib 3.8 tex 0.91 crack None shape None recur None glyph 10.664 via row  -> auto-reject: rows not along winding
+ -1.10 b0800_w074             fwd x6500   rows  90.0 fib 6.2 tex 1.12 crack None shape None recur None glyph 7.688 via row  -> auto-reject: rows not along winding
+ -1.11 b0800_w086             fwd x6500   rows  35.0 fib 3.8 tex 0.9 crack None shape None recur None glyph 10.32 via row  -> auto-reject: rows not along winding
+ -1.14 b0800_w051             fwd x1300   rows  45.0 fib 8.8 tex 0.98 crack None shape None recur None glyph 7.195 via row  -> auto-reject: rows not along winding
+ -1.14 b0800_w055             fwd x2600   rows  80.0 fib 3.8 tex 1.02 crack None shape None recur None glyph 9.352 via row  -> auto-reject: rows not along winding
+ -1.14 b0800_w078             rev x5200   rows  65.0 fib 6.2 tex 0.9 crack None shape None recur None glyph 9.922 via row  -> auto-reject: rows not along winding
+ -1.14 b0800_w080             rev x3900   rows  75.0 fib 1.2 tex 0.9 crack None shape None recur None glyph 9.664 via row  -> auto-reject: rows not along winding
+ -1.14 b0800_w088             fwd x6500   rows  35.0 fib 1.2 tex 0.91 crack None shape None recur None glyph 10.047 via row  -> auto-reject: rows not along winding
+ -1.19 b0800_w075             fwd x5200   rows  25.0 fib 6.2 tex 0.97 crack None shape None recur None glyph 9.75 via row  -> auto-reject: rows not along winding
+ -1.19 b0800_w081             rev x3900   rows  50.0 fib 6.2 tex 0.89 crack None shape None recur None glyph 8.445 via row  -> auto-reject: rows not along winding
+ -1.20 b0800_w059             fwd x0      rows  90.0 fib 6.2 tex 1.02 crack None shape None recur None glyph 7.332 via row  -> auto-reject: rows not along winding
+ -1.21 b0800_w053             fwd x2600   rows  85.0 fib 3.8 tex 1.01 crack None shape None recur None glyph 8.703 via row  -> auto-reject: rows not along winding
+ -1.21 b0800_w060             rev x0      rows  60.0 fib 3.8 tex 1.04 crack None shape None recur None glyph 11.32 via row  -> auto-reject: rows not along winding
+ -1.28 b0800_w057             fwd x5200   rows  75.0 fib 8.8 tex 1.1 crack None shape None recur None glyph 6.758 via row  -> auto-reject: rows not along winding
+ -1.28 b0800_w058             fwd x3900   rows  50.0 fib 8.8 tex 1.04 crack None shape None recur None glyph 10.453 via row  -> auto-reject: rows not along winding
+ -1.29 b0800_w080             fwd x0      rows  55.0 fib 6.2 tex 0.93 crack None shape None recur None glyph 8.305 via row  -> auto-reject: rows not along winding
+ -1.29 b0800_w085             rev x1300   rows  25.0 fib 6.2 tex 0.99 crack None shape None recur None glyph 10.164 via row  -> auto-reject: rows not along winding
+ -1.31 b0800_w069             fwd x0      rows  30.0 fib 1.2 tex 1.11 crack None shape None recur None glyph 9.047 via row  -> auto-reject: rows not along winding
+ -1.33 b0800_w070             fwd x3900   rows  30.0 fib 13.8 tex 0.96 crack None shape None recur None glyph 7.824 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -1.34 b0800_w073             fwd x3900   rows  40.0 fib 6.2 tex 0.91 crack None shape None recur None glyph 10.578 via row  -> auto-reject: rows not along winding
+ -1.37 b0800_w060             rev x1300   rows  90.0 fib 3.8 tex 1.0 crack None shape None recur None glyph 8.031 via row  -> auto-reject: rows not along winding
+ -1.39 b0800_w076             fwd x1300   rows  25.0 fib 6.2 tex 1.01 crack None shape None recur None glyph 8.812 via row  -> auto-reject: rows not along winding
+ -1.45 b0800_w073             fwd x1300   rows  25.0 fib 3.8 tex 0.98 crack None shape None recur None glyph 8.266 via row  -> auto-reject: rows not along winding
+ -1.45 b0800_w078             fwd x1300   rows  85.0 fib 6.2 tex 1.06 crack None shape None recur None glyph 8.273 via row  -> auto-reject: rows not along winding
+ -1.49 b0800_w069             fwd x5200   rows  90.0 fib 6.2 tex 1.03 crack None shape None recur None glyph 10.203 via row  -> auto-reject: rows not along winding
+ -1.53 b0800_w055             rev x2600   rows  90.0 fib 3.8 tex 1.02 crack None shape None recur None glyph 9.562 via row  -> auto-reject: rows not along winding
+ -1.56 b0800_w063             fwd x2600   rows  75.0 fib 3.8 tex 0.95 crack None shape None recur None glyph 9.625 via row  -> auto-reject: rows not along winding
+ -1.63 b0800_w063             rev x3900   rows  70.0 fib 8.8 tex 0.97 crack None shape None recur None glyph 9.484 via row  -> auto-reject: rows not along winding
+ -1.65 b0800_w076             fwd x5200   rows  25.0 fib 6.2 tex 0.93 crack None shape None recur None glyph 7.461 via row  -> auto-reject: rows not along winding
+ -1.65 b0800_w084             fwd x1300   rows  65.0 fib 8.8 tex 0.99 crack None shape None recur None glyph 11.609 via row  -> auto-reject: rows not along winding
+ -1.70 b0800_w065             fwd x0      rows  45.0 fib 8.8 tex 1.07 crack None shape None recur None glyph 4.875 via row  -> auto-reject: rows not along winding
+ -1.74 b0800_w082             fwd x2600   rows  90.0 fib 1.2 tex 0.92 crack None shape None recur None glyph 11.055 via row  -> auto-reject: rows not along winding
+ -1.75 b0800_w063             fwd x3900   rows  25.0 fib 8.8 tex 0.97 crack None shape None recur None glyph 9.727 via row  -> auto-reject: rows not along winding
+ -1.78 b0800_w089             rev x1300   rows  75.0 fib 16.2 tex 0.86 crack None shape None recur None glyph 9.992 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -1.82 b0800_w080             fwd x1300   rows  70.0 fib 21.2 tex 0.93 crack None shape None recur None glyph 8.109 via row  -> auto-reject: rows not along winding, sheet not flat (fold/crossing)
+ -1.95 b0800_w056             fwd x3900   rows  80.0 fib 8.8 tex 1.07 crack None shape None recur None glyph 9.484 via row  -> auto-reject: rows not along winding
+ -1.97 b0800_w072             rev x5200   rows  25.0 fib 3.8 tex 1.03 crack None shape None recur None glyph 10.18 via row  -> auto-reject: rows not along winding
+ -2.07 b0800_w054             fwd x3900   rows  70.0 fib 6.2 tex 1.09 crack None shape None recur None glyph 9.523 via row  -> auto-reject: rows not along winding
+ -2.10 b0800_w081             fwd x1300   rows  85.0 fib 6.2 tex 0.96 crack None shape None recur None glyph 10.766 via row  -> auto-reject: rows not along winding
+ -2.18 b0800_w088             rev x7800   rows  35.0 fib 1.2 tex 0.95 crack None shape None recur None glyph 9.391 via row  -> auto-reject: rows not along winding

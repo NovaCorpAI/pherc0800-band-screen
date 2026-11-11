@@ -1,0 +1,15 @@
+{
+  "id": "anaelcasanova/band0800-flatten",
+  "title": "band0800-flatten",
+  "code_file": "kaggle_flatten.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "anaelcasanova/band0800-snap"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

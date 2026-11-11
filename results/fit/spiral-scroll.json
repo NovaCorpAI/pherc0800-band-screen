@@ -1,0 +1,2 @@
+{"schema_version": 1, "name": "PHerc0800", "voxel_size_um": 8.64, "spiral_outward_sense": "CW",
+ "normal_zarr_group": "2", "surf_sdt_zarr_group": "1", "lasagna_scale": 4, "paths": {"tracks_dbm": "tracks/PHerc0800_20250521135224_surface_m7_L0_th0.2.dbm"}}

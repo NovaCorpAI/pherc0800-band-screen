@@ -1,0 +1,13 @@
+diff --git a/volume-cartographer/scripts/spiral/fit_spiral.py b/volume-cartographer/scripts/spiral/fit_spiral.py
+index 5a0fd4dfb..48347c809 100644
+--- a/volume-cartographer/scripts/spiral/fit_spiral.py
++++ b/volume-cartographer/scripts/spiral/fit_spiral.py
+@@ -1105,7 +1105,7 @@ class FitContext:
+         # Patch loading and ROI filtering
+         # ==========================================================================
+ 
+-        filter_tracks_by_shell = bool(self.tracks_dbm_path) and bool(self.shell_path)
++        filter_tracks_by_shell = bool(self.tracks_dbm_path) and bool(self.shell_path) and os.path.isdir(self.shell_path)  # flpipe: shell optional
+         shell_patch = None
+         if self.shell_losses_enabled() or filter_tracks_by_shell:
+             if not self.shell_path:

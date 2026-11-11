@@ -1,0 +1,3 @@
+checkpoint_fitted.ckpt
+meshes
+satisfied_fitted.json

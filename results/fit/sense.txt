@@ -1,0 +1,5 @@
+CW  n=40 snapped=1.000 rejected=0.213 off=2.88 sheet=0.942 score=0.596
+ACW n=40 snapped=1.000 rejected=0.216 off=2.92 sheet=0.941 score=0.589
+not decisive (margin 0.006, terms CW 2 ACW 1)
+weak: tie-break by mean rejections -> CW
+sense=CW (short fits at 4000 steps)

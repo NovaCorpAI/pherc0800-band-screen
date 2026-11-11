@@ -1,0 +1,17 @@
+{
+  "id": "anaelcasanova/band0800-render-2",
+  "title": "band0800-render-2",
+  "code_file": "kaggle_render.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "anaelcasanova/band0800-code"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "anaelcasanova/band0800-flatten"
+  ]
+}
