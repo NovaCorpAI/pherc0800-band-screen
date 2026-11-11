@@ -78,6 +78,21 @@ Layout of this repository (code MIT, see Licenses):
   windings as tifxyz in `fit/snap/`), `triage/` (tri_rank, line_find, run log of the ink kernel) and `cards/` (the six
   review cards discussed above plus the index of all 33).
 
+## Kaggle (public runs)
+
+The runs behind every number above are public, with logs and outputs: kernels
+[flatten](https://www.kaggle.com/code/anaelcasanova/band0800-flatten),
+[render-0](https://www.kaggle.com/code/anaelcasanova/band0800-render-0),
+[render-1](https://www.kaggle.com/code/anaelcasanova/band0800-render-1),
+[render-2](https://www.kaggle.com/code/anaelcasanova/band0800-render-2),
+[render-3](https://www.kaggle.com/code/anaelcasanova/band0800-render-3),
+[ink](https://www.kaggle.com/code/anaelcasanova/band0800-ink) and
+[cards](https://www.kaggle.com/code/anaelcasanova/band0800-cards); datasets
+[band0800-code](https://www.kaggle.com/datasets/anaelcasanova/band0800-code),
+[band0800-snap](https://www.kaggle.com/datasets/anaelcasanova/band0800-snap) and
+[band0800-flat](https://www.kaggle.com/datasets/anaelcasanova/band0800-flat).
+"Copy & Edit" on a kernel reruns it on your own account.
+
 ## How to reproduce
 
 1. Edit `pod/lane.env` (scroll, band z0/z1, voxel size, sense, number of windings). Start a 24 GB pod with
