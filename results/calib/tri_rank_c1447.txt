@@ -1,0 +1,20 @@
+  3.44 c1447_w058             rev x2600   rows   5.0 fib 3.8 tex 1.0 crack 0.09 shape 0.39 recur None glyph 11.398 via row  -> REVIEW
+  2.20 c1447_w060             rev x1300   rows   0.0 fib 1.2 tex 0.92 crack 0.22 shape 0.432 recur None glyph 12.953 via row  -> REVIEW
+  0.99 c1447_w058             fwd x1300   rows  10.0 fib 3.8 tex 0.99 crack 0.84 shape 0.282 recur None glyph 9.195 via row  -> REVIEW
+  0.30 c1447_w060             rev x2600   rows  15.0 fib 1.2 tex 0.88 crack 0.19 shape 0.344 recur None glyph 12.953 via row  -> REVIEW
+  0.05 c1447_w058             rev x1300   rows   0.0 fib 3.8 tex 0.99 crack 1.01 shape 0.578 recur None glyph 11.398 via row  -> REVIEW
+ -0.21 c1447_w060             fwd x2600   rows   5.0 fib 1.2 tex 0.88 crack 0.0 shape 0.409 recur None glyph 11.953 via row  -> REVIEW
+ -0.67 c1447_w060             fwd x5200   rows   0.0 fib 1.2 tex 1.0 crack 0.63 shape 0.338 recur None glyph 9.266 via row  -> REVIEW
+ -0.44 c1447_w058             fwd x3900   rows  20.0 fib 1.2 tex 1.03 crack 1.86 shape 0.517 recur None glyph 9.953 via row  -> REVIEW-2: on cracks
+  4.40 c1447_w058             rev x5200   rows  35.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 10.125 via row  -> auto-reject: rows not along winding
+  1.45 c1447_w058             fwd x2600   rows  80.0 fib 3.8 tex 1.0 crack None shape None recur None glyph 10.023 via row  -> auto-reject: rows not along winding
+  1.05 c1447_w058             rev x3900   rows  85.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 9.5 via row  -> auto-reject: rows not along winding
+  0.98 c1447_w060             rev x0      rows  25.0 fib 1.2 tex 1.06 crack None shape None recur None glyph 10.266 via row  -> auto-reject: rows not along winding
+  0.85 c1447_w058             rev x0      rows  25.0 fib 1.2 tex 1.08 crack None shape None recur None glyph 11.953 via row  -> auto-reject: rows not along winding
+  0.15 c1447_w060             fwd x0      rows  25.0 fib 1.2 tex 1.06 crack None shape None recur None glyph 7.574 via row  -> auto-reject: rows not along winding
+ -0.23 c1447_w058             fwd x0      rows  80.0 fib 1.2 tex 1.08 crack None shape None recur None glyph 7.68 via row  -> auto-reject: rows not along winding
+ -0.74 c1447_w060             rev x3900   rows  55.0 fib 1.2 tex 0.93 crack None shape None recur None glyph 10.883 via row  -> auto-reject: rows not along winding
+ -0.81 c1447_w060             rev x5200   rows  45.0 fib 1.2 tex 1.0 crack None shape None recur None glyph 10.828 via row  -> auto-reject: rows not along winding
+ -0.90 c1447_w058             fwd x5200   rows  40.0 fib 1.2 tex 1.03 crack None shape None recur None glyph 7.738 via row  -> auto-reject: rows not along winding
+ -1.38 c1447_w060             fwd x3900   rows  60.0 fib 1.2 tex 0.93 crack None shape None recur None glyph 9.438 via row  -> auto-reject: rows not along winding
+ -1.89 c1447_w060             fwd x1300   rows  65.0 fib 1.2 tex 0.92 crack None shape None recur None glyph 11.953 via row  -> auto-reject: rows not along winding

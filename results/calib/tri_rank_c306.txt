@@ -1,0 +1,8 @@
+  3.24 c306_claim             fwd x3900   rows   0.0 fib 1.2 tex 0.98 crack 0.74 shape 0.321 recur None glyph 12.414 via row  -> REVIEW
+  1.87 c306_claim             fwd x1300   rows   5.0 fib 3.8 tex 1.0 crack 0.35 shape 0.252 recur None glyph 10.016 via row  -> REVIEW
+ -0.01 c306_claim             rev x0      rows   5.0 fib 3.8 tex 1.0 crack 0.46 shape 0.706 recur None glyph 8.328 via row  -> REVIEW
+  0.05 c306_claim             rev x3900   rows   0.0 fib 1.2 tex 0.98 crack 1.52 shape 0.395 recur None glyph 11.203 via row  -> REVIEW-2: on cracks
+ 13.98 c306_claim             fwd x2600   rows  10.0 fib 1.2 tex 1.0 crack 0.47 shape 0.167 recur None glyph 10.352 via row  -> REVIEW-2: round blobs, no strokes
+  9.73 c306_claim             rev x2600   rows  90.0 fib 1.2 tex 1.0 crack None shape None recur None glyph 9.914 via row  -> auto-reject: rows not along winding
+ -1.01 c306_claim             rev x1300   rows  65.0 fib 3.8 tex 1.0 crack None shape None recur None glyph 8.203 via row  -> auto-reject: rows not along winding
+ -1.42 c306_claim             fwd x0      rows  40.0 fib 3.8 tex 1.0 crack None shape None recur None glyph 8.859 via row  -> auto-reject: rows not along winding

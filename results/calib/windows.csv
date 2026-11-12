@@ -1,0 +1,547 @@
+set,surface,side,x0,label,ink_frac,sup_px,score,row_off,fib_off,rel_tex,crack,shape,glyph,queue
+null_0800,b0800_w082,rev,2600,0,0.0,,7.26,15.0,1.2,0.92,0.75,0.476,10.953,REVIEW
+null_0800,b0800_w085,fwd,7800,0,0.0,,4.21,10.0,6.2,0.98,0.0,0.274,10.836,REVIEW
+null_0800,b0800_w063,rev,5200,0,0.0,,4.16,15.0,6.2,1.06,1.43,0.288,9.953,REVIEW
+null_0800,b0800_w085,rev,7800,0,0.0,,3.4,10.0,6.2,0.98,0.14,0.281,10.312,REVIEW
+null_0800,b0800_w089,fwd,2600,0,0.0,,3.3,5.0,11.2,0.93,0.72,0.458,7.355,REVIEW
+null_0800,b0800_w080,fwd,3900,0,0.0,,3.29,5.0,1.2,0.9,0.6,0.225,9.703,REVIEW
+null_0800,b0800_w064,rev,1300,0,0.0,,3.13,15.0,6.2,1.01,1.31,0.634,11.047,REVIEW
+null_0800,b0800_w068,fwd,2600,0,0.0,,2.54,10.0,1.2,0.94,0.34,0.537,10.68,REVIEW
+null_0800,b0800_w076,fwd,2600,0,0.0,,1.93,20.0,3.8,0.93,0.31,0.41,10.086,REVIEW
+null_0800,b0800_w074,rev,5200,0,0.0,,1.51,10.0,6.2,1.0,0.44,0.413,10.625,REVIEW
+null_0800,b0800_w083,rev,2600,0,0.0,,1.5,10.0,3.8,0.94,0.53,0.405,9.039,REVIEW
+null_0800,b0800_w078,rev,7800,0,0.0,,1.37,20.0,6.2,1.05,0.55,0.213,11.539,REVIEW
+null_0800,b0800_w072,rev,6500,0,0.0,,1.29,20.0,3.8,1.2,1.49,0.264,9.367,REVIEW
+null_0800,b0800_w068,rev,2600,0,0.0,,1.23,10.0,1.2,0.94,0.33,0.239,7.449,REVIEW
+null_0800,b0800_w072,fwd,0,0,0.0,,1.18,20.0,6.2,1.1,0.12,0.326,8.867,REVIEW
+null_0800,b0800_w077,rev,0,0,0.0,,1.18,0.0,8.8,1.16,0.73,0.321,5.852,REVIEW
+null_0800,b0800_w073,fwd,7800,0,0.0,,1.12,15.0,6.2,1.23,0.54,0.397,10.109,REVIEW
+null_0800,b0800_w075,fwd,2600,0,0.0,,1.11,20.0,3.8,0.91,0.24,0.235,8.125,REVIEW
+null_0800,b0800_w088,rev,9100,0,0.0,,0.98,0.0,1.2,0.87,0.29,0.524,9.047,REVIEW
+null_0800,b0800_w061,rev,1300,0,0.0,,0.84,5.0,3.8,0.98,0.03,0.227,7.488,REVIEW
+null_0800,b0800_w072,fwd,5200,0,0.0,,0.83,0.0,3.8,1.03,1.01,0.278,9.141,REVIEW
+null_0800,b0800_w067,rev,5200,0,0.0,,0.77,5.0,6.2,1.09,1.39,0.467,11.039,REVIEW
+null_0800,b0800_w084,fwd,7800,0,0.0,,0.71,15.0,3.8,1.1,0.61,0.461,10.555,REVIEW
+null_0800,b0800_w062,fwd,1300,0,0.0,,0.7,5.0,3.8,0.98,0.0,0.204,7.383,REVIEW
+null_0800,b0800_w089,rev,2600,0,0.0,,0.7,15.0,11.2,0.93,1.11,0.544,10.25,REVIEW
+null_0800,b0800_w089,rev,0,0,0.0,,0.65,10.0,6.2,0.83,0.13,0.313,5.414,REVIEW
+null_0800,b0800_w075,rev,2600,0,0.0,,0.64,10.0,3.8,0.91,0.51,0.48,9.055,REVIEW
+null_0800,b0800_w053,fwd,0,0,0.0,,0.6,10.0,3.8,1.03,0.0,0.541,8.609,REVIEW
+null_0800,b0800_w065,rev,2600,0,0.0,,0.39,5.0,6.2,0.92,0.25,0.294,9.828,REVIEW
+null_0800,b0800_w058,fwd,1300,0,0.0,,-0.07,15.0,11.2,0.95,1.43,0.301,8.891,REVIEW
+null_0800,b0800_w073,rev,7800,0,0.0,,-0.1,0.0,6.2,1.23,0.15,0.472,9.477,REVIEW
+null_0800,b0800_w075,rev,7800,0,0.0,,-0.15,20.0,6.2,1.18,0.0,0.446,11.453,REVIEW
+null_0800,b0800_w061,rev,3900,0,0.0,,-0.18,20.0,8.8,0.98,0.23,0.329,9.875,REVIEW
+null_0800,b0800_w067,rev,3900,0,0.0,,-0.2,5.0,3.8,0.99,0.37,0.269,11.125,REVIEW
+null_0800,b0800_w062,fwd,5200,0,0.0,,-0.31,20.0,6.2,1.09,1.38,0.267,10.203,REVIEW
+null_0800,b0800_w073,rev,3900,0,0.0,,-0.34,10.0,6.2,0.91,0.68,0.319,9.164,REVIEW
+null_0800,b0800_w077,fwd,6500,0,0.0,,-0.35,10.0,6.2,1.06,0.09,0.264,10.273,REVIEW
+null_0800,b0800_w068,rev,3900,0,0.0,,-0.43,5.0,1.2,0.97,0.28,0.438,8.438,REVIEW
+null_0800,b0800_w087,fwd,1300,0,0.0,,-0.43,5.0,11.2,0.97,0.26,0.412,10.578,REVIEW
+null_0800,b0800_w053,fwd,5200,0,0.0,,-0.58,0.0,8.8,1.14,0.0,0.707,8.047,REVIEW
+null_0800,b0800_w086,rev,6500,0,0.0,,-0.65,10.0,3.8,0.9,0.83,0.325,9.219,REVIEW
+null_0800,b0800_w078,fwd,7800,0,0.0,,-0.72,20.0,6.2,1.05,0.37,0.571,10.102,REVIEW
+null_0800,b0800_w058,rev,1300,0,0.0,,-0.73,15.0,11.2,0.95,0.55,0.342,9.523,REVIEW
+null_0800,b0800_w077,fwd,0,0,0.0,,-0.79,20.0,8.8,1.16,0.01,0.219,9.273,REVIEW
+null_0800,b0800_w071,rev,6500,0,0.0,,-0.85,20.0,3.8,1.14,0.67,0.405,8.875,REVIEW
+null_0800,b0800_w077,fwd,5200,0,0.0,,-0.98,20.0,6.2,0.91,0.06,0.354,10.5,REVIEW
+null_0800,b0800_w079,fwd,1300,0,0.0,,-1.16,15.0,8.8,0.93,1.29,0.371,9.164,REVIEW
+null_0800,b0800_w056,fwd,2600,0,0.0,,-1.45,10.0,3.8,1.02,0.82,0.218,8.609,REVIEW
+null_0800,b0800_w074,rev,6500,0,0.0,,-1.46,0.0,6.2,1.12,0.09,0.244,10.625,REVIEW
+null_0800,b0800_w059,fwd,5200,0,0.0,,-1.55,10.0,6.2,1.09,0.26,0.24,10.828,REVIEW
+null_0800,b0800_w087,fwd,5200,0,0.0,,12.6,15.0,11.2,0.84,0.64,0.308,10.5,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w076,rev,0,0,0.0,,3.97,0.0,8.8,1.12,1.79,0.206,9.227,REVIEW-2: on cracks
+null_0800,b0800_w065,rev,1300,0,0.0,,3.83,15.0,1.2,0.98,0.36,0.476,8.703,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w087,rev,3900,0,0.0,,3.64,20.0,3.8,0.9,1.14,0.458,10.055,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w075,rev,0,0,0.0,,3.05,10.0,6.2,1.15,0.27,0.223,9.93,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w065,rev,5200,0,0.0,,2.97,10.0,6.2,1.07,0.01,0.473,11.141,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w072,rev,2600,0,0.0,,2.07,10.0,8.8,0.91,1.58,0.317,11.75,REVIEW-2: on cracks
+null_0800,b0800_w087,rev,9100,0,0.0,,1.68,10.0,1.2,0.91,0.37,0.35,9.594,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w082,fwd,0,0,0.0,,1.51,5.0,6.2,1.01,0.0,0.264,10.016,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w053,fwd,1300,0,0.0,,1.46,20.0,6.2,1.01,0.02,0.397,8.266,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w064,rev,3900,0,0.0,,1.17,10.0,6.2,1.0,2.08,0.337,9.484,REVIEW-2: on cracks
+null_0800,b0800_w077,rev,7800,0,0.0,,0.94,0.0,6.2,1.13,1.31,0.42,8.766,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w084,rev,0,0,0.0,,0.9,5.0,6.2,1.05,0.0,0.341,9.484,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w060,fwd,1300,0,0.0,,0.85,15.0,3.8,1.0,1.93,0.3,8.102,REVIEW-2: on cracks
+null_0800,b0800_w080,rev,6500,0,0.0,,0.68,10.0,3.8,1.01,0.88,0.364,11.227,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w086,rev,3900,0,0.0,,0.67,20.0,1.2,0.89,0.67,0.237,8.609,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w067,rev,6500,0,0.0,,0.63,0.0,6.2,1.14,1.38,0.599,9.141,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w068,fwd,1300,0,0.0,,0.62,15.0,3.8,0.99,0.08,0.36,10.406,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w080,fwd,7800,0,0.0,,0.59,15.0,3.8,1.02,1.91,0.592,11.203,REVIEW-2: on cracks
+null_0800,b0800_w088,fwd,3900,0,0.0,,0.44,10.0,11.2,0.91,0.08,0.208,10.148,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w086,fwd,7800,0,0.0,,0.41,0.0,6.2,1.0,0.31,0.318,10.789,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w088,rev,5200,0,0.0,,0.41,20.0,11.2,0.86,0.54,0.452,10.047,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w074,rev,2600,0,0.0,,0.36,10.0,6.2,0.91,0.53,0.202,10.18,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w085,fwd,3900,0,0.0,,0.31,20.0,1.2,0.89,1.13,0.398,9.148,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w089,fwd,5200,0,0.0,,0.29,10.0,11.2,0.86,0.38,0.363,9.734,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w088,fwd,5200,0,0.0,,0.15,5.0,11.2,0.86,0.98,0.387,10.055,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w071,rev,0,0,0.0,,0.02,10.0,8.8,1.07,0.58,0.436,6.418,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w087,fwd,3900,0,0.0,,-0.1,20.0,3.8,0.9,0.27,0.307,10.078,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w085,fwd,6500,0,0.0,,-0.13,15.0,3.8,0.9,0.85,0.337,11.555,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w052,fwd,5200,0,0.0,,-0.17,0.0,11.2,1.14,0.29,0.438,8.914,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w083,fwd,3900,0,0.0,,-0.18,15.0,3.8,0.85,0.87,0.364,11.359,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w052,rev,5200,0,0.0,,-0.2,15.0,11.2,1.14,1.47,0.483,7.812,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w071,fwd,0,0,0.0,,-0.28,20.0,8.8,1.07,0.32,0.529,8.414,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w087,fwd,6500,0,0.0,,-0.29,20.0,8.8,0.9,0.15,0.369,9.117,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w083,rev,1300,0,0.0,,-0.31,5.0,6.2,0.99,0.56,0.255,9.82,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w089,fwd,9100,0,0.0,,-0.32,10.0,1.2,0.91,0.26,0.54,7.051,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w074,fwd,2600,0,0.0,,-0.37,15.0,6.2,0.91,1.12,0.279,12.672,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w085,rev,0,0,0.0,,-0.44,5.0,6.2,1.01,0.18,0.24,7.805,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w077,rev,6500,0,0.0,,-0.53,20.0,6.2,1.06,1.93,0.267,10.148,REVIEW-2: on cracks
+null_0800,b0800_w068,fwd,0,0,0.0,,-0.54,20.0,3.8,1.1,0.84,0.451,9.523,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w076,rev,5200,0,0.0,,-0.54,20.0,6.2,0.93,2.88,0.323,11.0,REVIEW-2: on cracks
+null_0800,b0800_w076,fwd,3900,0,0.0,,-0.57,0.0,8.8,0.87,0.01,0.397,10.172,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w061,rev,2600,0,0.0,,-0.59,10.0,3.8,0.96,0.18,0.376,9.453,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w085,rev,6500,0,0.0,,-0.62,10.0,3.8,0.9,0.16,0.472,11.273,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w071,fwd,1300,0,0.0,,-0.7,20.0,1.2,0.98,0.79,0.23,8.453,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w060,fwd,3900,0,0.0,,-0.71,0.0,6.2,1.04,0.23,0.309,10.867,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w067,fwd,1300,0,0.0,,-0.71,15.0,8.8,1.01,1.09,0.375,10.859,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w087,fwd,0,0,0.0,,-0.75,20.0,11.2,1.0,2.92,0.655,6.648,REVIEW-2: on cracks
+null_0800,b0800_w071,fwd,2600,0,0.0,,-0.76,15.0,6.2,0.93,0.78,0.409,10.125,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w066,fwd,2600,0,0.0,,-0.77,15.0,3.8,0.94,2.69,0.487,13.047,REVIEW-2: on cracks
+null_0800,b0800_w060,rev,2600,0,0.0,,-0.78,10.0,1.2,0.99,0.43,0.292,9.766,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w059,rev,1300,0,0.0,,-0.81,20.0,3.8,0.97,1.14,0.29,5.344,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w074,fwd,0,0,0.0,,-0.91,15.0,6.2,1.13,0.34,0.393,6.625,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w081,rev,6500,0,0.0,,-0.95,20.0,6.2,1.02,2.56,0.26,10.633,REVIEW-2: on cracks
+null_0800,b0800_w074,rev,1300,0,0.0,,-0.96,10.0,3.8,0.99,1.52,0.21,10.445,REVIEW-2: on cracks
+null_0800,b0800_w069,fwd,6500,0,0.0,,-1.1,15.0,11.2,1.07,0.0,0.464,6.551,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w062,rev,1300,0,0.0,,-1.15,5.0,3.8,0.98,4.3,0.29,10.383,REVIEW-2: on cracks
+null_0800,b0800_w061,rev,5200,0,0.0,,-1.21,10.0,8.8,1.1,3.42,0.215,9.938,REVIEW-2: on cracks
+null_0800,b0800_w084,rev,1300,0,0.0,,-1.43,20.0,8.8,0.99,0.24,0.329,9.406,REVIEW-2: repeats on w+-2 (structure)
+null_0800,b0800_w055,fwd,5200,0,0.0,,7.43,15.0,8.8,1.1,0.8,0.176,8.797,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w081,rev,2600,0,0.0,,4.73,5.0,3.8,0.93,1.67,0.41,9.664,"REVIEW-2: on cracks, repeats on w+-2 (structure)"
+null_0800,b0800_w058,fwd,2600,0,0.0,,3.87,0.0,6.2,0.98,1.45,0.112,10.422,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w087,rev,5200,0,0.0,,3.54,20.0,11.2,0.84,1.58,0.478,12.734,"REVIEW-2: on cracks, repeats on w+-2 (structure)"
+null_0800,b0800_w062,rev,0,0,0.0,,2.19,20.0,3.8,1.04,3.49,0.341,10.477,"REVIEW-2: on cracks, repeats on w+-2 (structure)"
+null_0800,b0800_w089,fwd,0,0,0.0,,2.12,15.0,6.2,0.83,0.53,0.0,2.221,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w073,fwd,5200,0,0.0,,1.91,10.0,6.2,0.99,0.31,0.174,10.25,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w082,fwd,9100,0,0.0,,1.74,10.0,1.2,1.06,2.0,0.423,5.301,"REVIEW-2: on cracks, repeats on w+-2 (structure)"
+null_0800,b0800_w088,rev,0,0,0.0,,1.64,15.0,8.8,0.93,0.0,0.137,4.117,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w068,fwd,5200,0,0.0,,0.97,10.0,6.2,1.03,0.35,0.102,12.484,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w081,rev,9100,0,0.0,,0.89,20.0,1.2,1.03,1.28,0.0,1.561,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w057,fwd,2600,0,0.0,,0.68,15.0,1.2,0.98,0.24,0.099,9.422,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w075,rev,3900,0,0.0,,0.56,20.0,3.8,0.87,0.4,0.122,10.305,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w077,fwd,1300,0,0.0,,0.46,20.0,6.2,1.07,0.21,0.124,9.391,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w075,rev,6500,0,0.0,,0.41,20.0,6.2,1.15,0.62,0.157,11.344,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w057,rev,1300,0,0.0,,0.37,15.0,1.2,0.98,0.46,0.151,7.469,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w075,rev,5200,0,0.0,,0.36,15.0,6.2,0.97,0.7,0.055,10.445,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w061,fwd,3900,0,0.0,,0.17,5.0,8.8,0.98,0.8,0.192,10.641,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w086,rev,9100,0,0.0,,-0.05,15.0,3.8,0.95,0.27,0.133,9.258,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w072,rev,0,0,0.0,,-0.24,15.0,6.2,1.1,0.42,0.156,5.406,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w064,fwd,1300,0,0.0,,-0.6,15.0,6.2,1.01,0.0,0.067,10.117,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w063,fwd,5200,0,0.0,,-0.62,10.0,6.2,1.06,1.25,0.141,9.812,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w057,rev,2600,0,0.0,,-0.65,15.0,1.2,0.98,1.07,0.125,7.957,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w078,rev,2600,0,0.0,,-0.65,10.0,1.2,0.96,2.41,0.332,9.875,"REVIEW-2: on cracks, repeats on w+-2 (structure)"
+null_0800,b0800_w065,rev,0,0,0.0,,-0.78,10.0,8.8,1.07,0.14,0.123,7.387,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w069,rev,2600,0,0.0,,-0.82,5.0,6.2,0.93,0.74,0.069,5.441,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w067,rev,2600,0,0.0,,-1.09,5.0,11.2,0.96,0.36,0.199,8.148,"REVIEW-2: round blobs, no strokes"
+null_0800,b0800_w078,fwd,2600,0,0.0,,-1.56,0.0,1.2,0.96,1.76,0.354,8.672,"REVIEW-2: on cracks, repeats on w+-2 (structure)"
+null_0800,b0800_w086,rev,7800,0,0.0,,5.57,5.0,6.2,1.0,0.65,0.122,9.289,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w059,fwd,3900,0,0.0,,2.78,10.0,6.2,1.04,0.68,0.193,10.367,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w063,rev,0,0,0.0,,2.52,20.0,6.2,1.04,4.25,0.159,11.289,"REVIEW-2: on cracks, round blobs, no strokes"
+null_0800,b0800_w070,fwd,0,0,0.0,,2.52,15.0,1.2,1.1,1.36,0.0,4.094,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w077,rev,1300,0,0.0,,1.7,20.0,6.2,1.07,1.68,0.034,6.371,"REVIEW-2: on cracks, round blobs, no strokes"
+null_0800,b0800_w083,rev,0,0,0.0,,0.59,15.0,3.8,1.05,0.55,0.139,9.789,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w053,rev,1300,0,0.0,,0.54,20.0,6.2,1.01,1.05,0.179,7.961,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w087,fwd,9100,0,0.0,,0.49,10.0,1.2,0.91,0.28,0.132,7.238,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w057,rev,0,0,0.0,,0.42,5.0,6.2,1.01,1.06,0.0,5.57,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w078,fwd,0,0,0.0,,0.31,15.0,8.8,1.15,0.61,0.0,4.645,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w071,fwd,5200,0,0.0,,0.07,20.0,6.2,1.02,1.77,0.163,8.156,"REVIEW-2: on cracks, round blobs, no strokes"
+null_0800,b0800_w061,fwd,2600,0,0.0,,-0.03,0.0,3.8,0.96,0.77,0.133,11.695,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w054,rev,3900,0,0.0,,-0.16,0.0,6.2,1.09,0.0,0.123,9.023,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w050,rev,2600,0,0.0,,-0.38,5.0,1.2,0.98,0.42,0.198,8.516,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w078,rev,1300,0,0.0,,-0.51,15.0,6.2,1.06,0.7,0.194,9.953,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w070,rev,0,0,0.0,,-0.57,10.0,1.2,1.1,1.07,0.177,7.586,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w054,rev,5200,0,0.0,,-0.99,10.0,8.8,1.13,0.87,0.0,6.898,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w068,rev,1300,0,0.0,,-1.24,10.0,3.8,0.99,0.99,0.183,8.805,"REVIEW-2: round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w079,fwd,7800,0,0.0,,-0.62,15.0,6.2,1.01,2.37,0.141,9.453,"REVIEW-2: on cracks, round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w060,fwd,2600,0,0.0,,-0.95,5.0,1.2,0.99,1.53,0.199,9.641,"REVIEW-2: on cracks, round blobs, no strokes, repeats on w+-2 (structure)"
+null_0800,b0800_w082,fwd,5200,0,0.0,,14.22,75.0,3.8,0.88,,,11.578,auto-reject: rows not along winding
+null_0800,b0800_w075,fwd,6500,0,0.0,,13.3,80.0,6.2,1.15,,,10.086,auto-reject: rows not along winding
+null_0800,b0800_w059,rev,3900,0,0.0,,11.78,80.0,6.2,1.04,,,9.438,auto-reject: rows not along winding
+null_0800,b0800_w072,fwd,3900,0,0.0,,10.14,40.0,3.8,0.9,,,9.086,auto-reject: rows not along winding
+null_0800,b0800_w080,fwd,5200,0,0.0,,6.18,80.0,1.2,0.92,,,10.43,auto-reject: rows not along winding
+null_0800,b0800_w054,fwd,2600,0,0.0,,6.05,90.0,3.8,1.03,,,9.438,auto-reject: rows not along winding
+null_0800,b0800_w064,rev,0,0,0.0,,5.55,50.0,3.8,1.07,,,11.047,auto-reject: rows not along winding
+null_0800,b0800_w066,rev,3900,0,0.0,,5.52,25.0,1.2,1.0,,,8.82,auto-reject: rows not along winding
+null_0800,b0800_w056,fwd,5200,0,0.0,,5.39,45.0,11.2,1.06,,,9.453,auto-reject: rows not along winding
+null_0800,b0800_w054,fwd,0,0,0.0,,5.0,70.0,11.2,1.02,,,6.887,auto-reject: rows not along winding
+null_0800,b0800_w052,fwd,1300,0,0.0,,4.86,40.0,8.8,1.01,,,9.867,auto-reject: rows not along winding
+null_0800,b0800_w063,fwd,6500,0,0.0,,4.75,85.0,6.2,1.13,,,10.586,auto-reject: rows not along winding
+null_0800,b0800_w064,fwd,6500,0,0.0,,4.49,85.0,8.8,1.14,,,9.352,auto-reject: rows not along winding
+null_0800,b0800_w069,rev,5200,0,0.0,,4.48,60.0,6.2,1.03,,,7.336,auto-reject: rows not along winding
+null_0800,b0800_w072,fwd,1300,0,0.0,,4.24,25.0,23.8,0.98,,,8.945,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w066,rev,1300,0,0.0,,3.97,25.0,6.2,1.01,,,10.953,auto-reject: rows not along winding
+null_0800,b0800_w088,fwd,7800,0,0.0,,3.74,90.0,1.2,0.95,,,10.953,auto-reject: rows not along winding
+null_0800,b0800_w070,fwd,1300,0,0.0,,3.58,75.0,6.2,1.01,,,7.332,auto-reject: rows not along winding
+null_0800,b0800_w051,fwd,2600,0,0.0,,3.49,80.0,3.8,0.98,,,9.5,auto-reject: rows not along winding
+null_0800,b0800_w064,rev,5200,0,0.0,,3.48,75.0,3.8,1.09,,,9.344,auto-reject: rows not along winding
+null_0800,b0800_w086,fwd,3900,0,0.0,,3.45,40.0,1.2,0.89,,,7.707,auto-reject: rows not along winding
+null_0800,b0800_w086,rev,2600,0,0.0,,3.26,35.0,18.8,0.95,,,6.602,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w070,rev,3900,0,0.0,,3.18,25.0,13.8,0.96,,,6.551,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w056,fwd,0,0,0.0,,3.16,90.0,3.8,1.04,,,9.242,auto-reject: rows not along winding
+null_0800,b0800_w056,fwd,1300,0,0.0,,3.11,40.0,1.2,1.02,,,9.953,auto-reject: rows not along winding
+null_0800,b0800_w079,rev,0,0,0.0,,2.89,35.0,6.2,0.94,,,1.213,auto-reject: rows not along winding
+null_0800,b0800_w075,fwd,1300,0,0.0,,2.77,75.0,6.2,0.99,,,8.125,auto-reject: rows not along winding
+null_0800,b0800_w076,fwd,7800,0,0.0,,2.75,70.0,6.2,1.17,,,11.828,auto-reject: rows not along winding
+null_0800,b0800_w083,rev,7800,0,0.0,,2.58,70.0,3.8,1.11,,,7.539,auto-reject: rows not along winding
+null_0800,b0800_w067,fwd,6500,0,0.0,,2.51,80.0,6.2,1.14,,,5.418,auto-reject: rows not along winding
+null_0800,b0800_w066,fwd,3900,0,0.0,,2.43,25.0,1.2,1.0,,,13.125,auto-reject: rows not along winding
+null_0800,b0800_w050,rev,0,0,0.0,,2.33,75.0,1.2,1.03,,,8.805,auto-reject: rows not along winding
+null_0800,b0800_w082,rev,0,0,0.0,,2.22,75.0,6.2,1.01,,,8.438,auto-reject: rows not along winding
+null_0800,b0800_w054,rev,0,0,0.0,,2.2,85.0,11.2,1.02,,,6.262,auto-reject: rows not along winding
+null_0800,b0800_w066,rev,6500,0,0.0,,2.15,85.0,6.2,1.18,,,8.797,auto-reject: rows not along winding
+null_0800,b0800_w087,rev,2600,0,0.0,,2.11,65.0,16.2,0.95,,,8.039,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w073,rev,5200,0,0.0,,2.02,75.0,6.2,0.99,,,9.125,auto-reject: rows not along winding
+null_0800,b0800_w076,rev,7800,0,0.0,,1.96,70.0,6.2,1.17,,,9.117,auto-reject: rows not along winding
+null_0800,b0800_w081,rev,1300,0,0.0,,1.96,65.0,6.2,0.96,,,9.664,auto-reject: rows not along winding
+null_0800,b0800_w055,rev,0,0,0.0,,1.93,70.0,8.8,1.07,,,8.867,auto-reject: rows not along winding
+null_0800,b0800_w087,fwd,7800,0,0.0,,1.93,90.0,1.2,0.94,,,11.625,auto-reject: rows not along winding
+null_0800,b0800_w086,rev,1300,0,0.0,,1.85,40.0,13.8,0.97,,,9.203,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w084,rev,9100,0,0.0,,1.84,25.0,1.2,1.08,,,9.602,auto-reject: rows not along winding
+null_0800,b0800_w065,fwd,6500,0,0.0,,1.81,85.0,6.2,1.15,,,11.75,auto-reject: rows not along winding
+null_0800,b0800_w050,fwd,0,0,0.0,,1.8,80.0,1.2,1.03,,,11.086,auto-reject: rows not along winding
+null_0800,b0800_w082,rev,3900,0,0.0,,1.77,75.0,1.2,0.87,,,9.484,auto-reject: rows not along winding
+null_0800,b0800_w074,rev,0,0,0.0,,1.69,75.0,6.2,1.13,,,10.492,auto-reject: rows not along winding
+null_0800,b0800_w065,fwd,5200,0,0.0,,1.67,25.0,6.2,1.07,,,9.719,auto-reject: rows not along winding
+null_0800,b0800_w050,rev,1300,0,0.0,,1.66,30.0,13.8,0.98,,,8.516,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w062,rev,6500,0,0.0,,1.63,80.0,1.2,1.15,,,8.547,auto-reject: rows not along winding
+null_0800,b0800_w079,rev,7800,0,0.0,,1.63,25.0,6.2,1.01,,,8.797,auto-reject: rows not along winding
+null_0800,b0800_w056,rev,1300,0,0.0,,1.58,30.0,1.2,1.02,,,10.961,auto-reject: rows not along winding
+null_0800,b0800_w082,rev,5200,0,0.0,,1.56,65.0,3.8,0.88,,,10.781,auto-reject: rows not along winding
+null_0800,b0800_w055,rev,1300,0,0.0,,1.54,65.0,1.2,1.03,,,9.562,auto-reject: rows not along winding
+null_0800,b0800_w085,rev,5200,0,0.0,,1.52,15.0,18.8,0.83,,,11.273,auto-reject: sheet not flat (fold/crossing)
+null_0800,b0800_w088,fwd,0,0,0.0,,1.52,40.0,8.8,0.93,,,10.711,auto-reject: rows not along winding
+null_0800,b0800_w051,rev,0,0,0.0,,1.48,60.0,6.2,1.03,,,7.008,auto-reject: rows not along winding
+null_0800,b0800_w067,fwd,3900,0,0.0,,1.42,25.0,3.8,0.99,,,11.859,auto-reject: rows not along winding
+null_0800,b0800_w083,rev,3900,0,0.0,,1.41,25.0,3.8,0.85,,,10.922,auto-reject: rows not along winding
+null_0800,b0800_w067,fwd,2600,0,0.0,,1.4,75.0,11.2,0.96,,,9.734,auto-reject: rows not along winding
+null_0800,b0800_w089,fwd,7800,0,0.0,,1.4,75.0,1.2,0.97,,,10.945,auto-reject: rows not along winding
+null_0800,b0800_w067,fwd,5200,0,0.0,,1.34,25.0,6.2,1.09,,,11.922,auto-reject: rows not along winding
+null_0800,b0800_w076,rev,2600,0,0.0,,1.33,35.0,3.8,0.93,,,10.047,auto-reject: rows not along winding
+null_0800,b0800_w077,rev,3900,0,0.0,,1.32,65.0,8.8,0.88,,,10.023,auto-reject: rows not along winding
+null_0800,b0800_w052,rev,0,0,0.0,,1.3,45.0,8.8,1.04,,,10.141,auto-reject: rows not along winding
+null_0800,b0800_w069,rev,3900,0,0.0,,1.28,70.0,1.2,0.95,,,4.996,auto-reject: rows not along winding
+null_0800,b0800_w080,rev,1300,0,0.0,,1.21,70.0,21.2,0.93,,,10.641,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w081,rev,0,0,0.0,,1.16,80.0,6.2,1.01,,,7.711,auto-reject: rows not along winding
+null_0800,b0800_w072,rev,1300,0,0.0,,1.15,20.0,23.8,0.98,,,7.117,auto-reject: sheet not flat (fold/crossing)
+null_0800,b0800_w087,rev,0,0,0.0,,1.14,80.0,11.2,1.0,,,10.812,auto-reject: rows not along winding
+null_0800,b0800_w070,fwd,6500,0,0.0,,1.12,90.0,6.2,1.12,,,8.602,auto-reject: rows not along winding
+null_0800,b0800_w087,rev,1300,0,0.0,,1.08,85.0,11.2,0.97,,,10.727,auto-reject: rows not along winding
+null_0800,b0800_w068,fwd,3900,0,0.0,,1.05,25.0,1.2,0.97,,,12.438,auto-reject: rows not along winding
+null_0800,b0800_w088,fwd,1300,0,0.0,,1.01,5.0,13.8,0.92,,,6.758,auto-reject: sheet not flat (fold/crossing)
+null_0800,b0800_w050,rev,3900,0,0.0,,0.99,50.0,8.8,1.01,,,9.398,auto-reject: rows not along winding
+null_0800,b0800_w052,rev,2600,0,0.0,,0.95,85.0,3.8,1.02,,,7.867,auto-reject: rows not along winding
+null_0800,b0800_w067,rev,1300,0,0.0,,0.94,25.0,8.8,1.01,,,8.539,auto-reject: rows not along winding
+null_0800,b0800_w089,rev,9100,0,0.0,,0.91,25.0,1.2,0.91,,,9.883,auto-reject: rows not along winding
+null_0800,b0800_w079,rev,1300,0,0.0,,0.89,35.0,8.8,0.93,,,6.305,auto-reject: rows not along winding
+null_0800,b0800_w083,fwd,7800,0,0.0,,0.88,70.0,3.8,1.11,,,8.18,auto-reject: rows not along winding
+null_0800,b0800_w067,rev,0,0,0.0,,0.86,70.0,1.2,1.13,,,6.07,auto-reject: rows not along winding
+null_0800,b0800_w082,rev,6500,0,0.0,,0.86,55.0,1.2,1.02,,,10.781,auto-reject: rows not along winding
+null_0800,b0800_w072,fwd,7800,0,0.0,,0.85,25.0,6.2,1.25,,,7.418,auto-reject: rows not along winding
+null_0800,b0800_w084,rev,3900,0,0.0,,0.84,35.0,13.8,0.87,,,12.898,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w084,fwd,0,0,0.0,,0.83,50.0,6.2,1.05,,,10.438,auto-reject: rows not along winding
+null_0800,b0800_w069,rev,6500,0,0.0,,0.8,25.0,11.2,1.07,,,10.195,auto-reject: rows not along winding
+null_0800,b0800_w051,rev,2600,0,0.0,,0.79,85.0,3.8,0.98,,,10.336,auto-reject: rows not along winding
+null_0800,b0800_w086,fwd,5200,0,0.0,,0.79,40.0,16.2,0.83,,,8.523,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w074,fwd,3900,0,0.0,,0.78,30.0,3.8,0.91,,,12.672,auto-reject: rows not along winding
+null_0800,b0800_w061,fwd,1300,0,0.0,,0.77,70.0,3.8,0.98,,,8.469,auto-reject: rows not along winding
+null_0800,b0800_w070,fwd,2600,0,0.0,,0.77,85.0,11.2,0.95,,,8.117,auto-reject: rows not along winding
+null_0800,b0800_w059,rev,2600,0,0.0,,0.72,80.0,1.2,0.98,,,7.086,auto-reject: rows not along winding
+null_0800,b0800_w072,rev,3900,0,0.0,,0.72,25.0,3.8,0.9,,,11.828,auto-reject: rows not along winding
+null_0800,b0800_w065,fwd,2600,0,0.0,,0.68,75.0,6.2,0.92,,,9.68,auto-reject: rows not along winding
+null_0800,b0800_w066,fwd,1300,0,0.0,,0.68,25.0,6.2,1.01,,,10.391,auto-reject: rows not along winding
+null_0800,b0800_w071,rev,5200,0,0.0,,0.67,80.0,6.2,1.02,,,12.312,auto-reject: rows not along winding
+null_0800,b0800_w054,fwd,1300,0,0.0,,0.66,65.0,1.2,1.01,,,8.82,auto-reject: rows not along winding
+null_0800,b0800_w063,rev,6500,0,0.0,,0.66,70.0,6.2,1.13,,,10.703,auto-reject: rows not along winding
+null_0800,b0800_w070,fwd,5200,0,0.0,,0.66,45.0,6.2,1.06,,,8.484,auto-reject: rows not along winding
+null_0800,b0800_w080,rev,5200,0,0.0,,0.65,55.0,1.2,0.92,,,9.797,auto-reject: rows not along winding
+null_0800,b0800_w065,rev,6500,0,0.0,,0.63,75.0,6.2,1.15,,,8.883,auto-reject: rows not along winding
+null_0800,b0800_w086,rev,5200,0,0.0,,0.63,35.0,16.2,0.83,,,8.578,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w083,fwd,0,0,0.0,,0.61,75.0,3.8,1.05,,,10.977,auto-reject: rows not along winding
+null_0800,b0800_w086,fwd,2600,0,0.0,,0.6,30.0,18.8,0.95,,,10.203,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w071,fwd,3900,0,0.0,,0.59,30.0,8.8,0.93,,,10.266,auto-reject: rows not along winding
+null_0800,b0800_w071,rev,2600,0,0.0,,0.59,25.0,6.2,0.93,,,6.676,auto-reject: rows not along winding
+null_0800,b0800_w054,rev,1300,0,0.0,,0.58,75.0,1.2,1.01,,,11.336,auto-reject: rows not along winding
+null_0800,b0800_w077,fwd,7800,0,0.0,,0.55,80.0,6.2,1.13,,,9.461,auto-reject: rows not along winding
+null_0800,b0800_w072,fwd,2600,0,0.0,,0.54,30.0,8.8,0.91,,,9.766,auto-reject: rows not along winding
+null_0800,b0800_w062,fwd,3900,0,0.0,,0.53,50.0,6.2,0.98,,,11.039,auto-reject: rows not along winding
+null_0800,b0800_w084,fwd,6500,0,0.0,,0.53,85.0,3.8,0.96,,,13.852,auto-reject: rows not along winding
+null_0800,b0800_w086,rev,0,0,0.0,,0.53,80.0,8.8,1.01,,,9.023,auto-reject: rows not along winding
+null_0800,b0800_w085,fwd,5200,0,0.0,,0.51,40.0,18.8,0.83,,,9.148,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w058,rev,2600,0,0.0,,0.49,65.0,6.2,0.98,,,9.43,auto-reject: rows not along winding
+null_0800,b0800_w084,fwd,9100,0,0.0,,0.49,75.0,1.2,1.08,,,7.125,auto-reject: rows not along winding
+null_0800,b0800_w055,fwd,1300,0,0.0,,0.48,65.0,1.2,1.03,,,7.383,auto-reject: rows not along winding
+null_0800,b0800_w083,rev,9100,0,0.0,,0.46,25.0,1.2,1.09,,,9.172,auto-reject: rows not along winding
+null_0800,b0800_w077,fwd,3900,0,0.0,,0.44,80.0,8.8,0.88,,,10.25,auto-reject: rows not along winding
+null_0800,b0800_w086,fwd,1300,0,0.0,,0.43,20.0,13.8,0.97,,,10.203,auto-reject: sheet not flat (fold/crossing)
+null_0800,b0800_w056,rev,0,0,0.0,,0.41,45.0,3.8,1.04,,,8.43,auto-reject: rows not along winding
+null_0800,b0800_w066,rev,2600,0,0.0,,0.41,35.0,3.8,0.94,,,10.953,auto-reject: rows not along winding
+null_0800,b0800_w069,fwd,3900,0,0.0,,0.41,85.0,1.2,0.95,,,10.227,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,7800,0,0.0,,0.41,75.0,6.2,1.06,,,5.938,auto-reject: rows not along winding
+null_0800,b0800_w085,fwd,0,0,0.0,,0.41,50.0,6.2,1.01,,,7.969,auto-reject: rows not along winding
+null_0800,b0800_w074,rev,7800,0,0.0,,0.4,60.0,3.8,1.19,,,7.668,auto-reject: rows not along winding
+null_0800,b0800_w089,rev,6500,0,0.0,,0.39,30.0,3.8,0.93,,,10.547,auto-reject: rows not along winding
+null_0800,b0800_w062,fwd,6500,0,0.0,,0.37,70.0,1.2,1.15,,,10.203,auto-reject: rows not along winding
+null_0800,b0800_w065,fwd,1300,0,0.0,,0.35,25.0,1.2,0.98,,,9.68,auto-reject: rows not along winding
+null_0800,b0800_w060,fwd,0,0,0.0,,0.34,50.0,3.8,1.04,,,5.266,auto-reject: rows not along winding
+null_0800,b0800_w073,rev,0,0,0.0,,0.34,75.0,3.8,1.1,,,8.602,auto-reject: rows not along winding
+null_0800,b0800_w084,fwd,3900,0,0.0,,0.34,35.0,13.8,0.87,,,11.203,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w084,rev,7800,0,0.0,,0.34,70.0,3.8,1.1,,,7.211,auto-reject: rows not along winding
+null_0800,b0800_w086,fwd,0,0,0.0,,0.34,50.0,8.8,1.01,,,8.297,auto-reject: rows not along winding
+null_0800,b0800_w064,rev,2600,0,0.0,,0.32,25.0,1.2,0.97,,,9.305,auto-reject: rows not along winding
+null_0800,b0800_w082,fwd,3900,0,0.0,,0.31,60.0,1.2,0.87,,,10.984,auto-reject: rows not along winding
+null_0800,b0800_w085,rev,2600,0,0.0,,0.31,75.0,11.2,0.97,,,10.57,auto-reject: rows not along winding
+null_0800,b0800_w079,fwd,2600,0,0.0,,0.3,55.0,1.2,0.94,,,9.852,auto-reject: rows not along winding
+null_0800,b0800_w088,rev,1300,0,0.0,,0.28,5.0,13.8,0.92,,,8.828,auto-reject: sheet not flat (fold/crossing)
+null_0800,b0800_w051,fwd,3900,0,0.0,,0.24,65.0,6.2,1.04,,,9.188,auto-reject: rows not along winding
+null_0800,b0800_w057,rev,5200,0,0.0,,0.24,65.0,8.8,1.1,,,10.891,auto-reject: rows not along winding
+null_0800,b0800_w052,fwd,2600,0,0.0,,0.23,85.0,3.8,1.02,,,10.039,auto-reject: rows not along winding
+null_0800,b0800_w061,fwd,5200,0,0.0,,0.23,80.0,8.8,1.1,,,6.363,auto-reject: rows not along winding
+null_0800,b0800_w068,rev,0,0,0.0,,0.23,65.0,3.8,1.1,,,8.727,auto-reject: rows not along winding
+null_0800,b0800_w079,fwd,5200,0,0.0,,0.22,80.0,3.8,0.93,,,11.375,auto-reject: rows not along winding
+null_0800,b0800_w055,rev,5200,0,0.0,,0.21,75.0,8.8,1.1,,,10.391,auto-reject: rows not along winding
+null_0800,b0800_w082,fwd,6500,0,0.0,,0.21,65.0,1.2,1.02,,,10.711,auto-reject: rows not along winding
+null_0800,b0800_w075,fwd,0,0,0.0,,0.2,60.0,6.2,1.15,,,7.023,auto-reject: rows not along winding
+null_0800,b0800_w055,fwd,0,0,0.0,,0.19,65.0,8.8,1.07,,,7.051,auto-reject: rows not along winding
+null_0800,b0800_w057,fwd,0,0,0.0,,0.18,80.0,6.2,1.01,,,10.773,auto-reject: rows not along winding
+null_0800,b0800_w089,rev,7800,0,0.0,,0.17,25.0,1.2,0.97,,,10.797,auto-reject: rows not along winding
+null_0800,b0800_w084,rev,2600,0,0.0,,0.15,35.0,11.2,0.96,,,8.383,auto-reject: rows not along winding
+null_0800,b0800_w062,rev,5200,0,0.0,,0.13,80.0,6.2,1.09,,,8.359,auto-reject: rows not along winding
+null_0800,b0800_w078,rev,3900,0,0.0,,0.13,45.0,1.2,0.87,,,9.406,auto-reject: rows not along winding
+null_0800,b0800_w050,fwd,2600,0,0.0,,0.12,80.0,1.2,0.98,,,10.516,auto-reject: rows not along winding
+null_0800,b0800_w063,rev,1300,0,0.0,,0.11,70.0,1.2,0.98,,,11.266,auto-reject: rows not along winding
+null_0800,b0800_w068,rev,6500,0,0.0,,0.11,75.0,6.2,1.07,,,8.461,auto-reject: rows not along winding
+null_0800,b0800_w072,fwd,6500,0,0.0,,0.09,30.0,3.8,1.2,,,7.301,auto-reject: rows not along winding
+null_0800,b0800_w070,rev,2600,0,0.0,,0.08,90.0,11.2,0.95,,,4.691,auto-reject: rows not along winding
+null_0800,b0800_w079,rev,3900,0,0.0,,0.08,30.0,8.8,0.89,,,9.836,auto-reject: rows not along winding
+null_0800,b0800_w079,rev,6500,0,0.0,,0.08,70.0,1.2,1.03,,,10.898,auto-reject: rows not along winding
+null_0800,b0800_w084,fwd,5200,0,0.0,,0.08,75.0,18.8,0.83,,,13.852,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w087,rev,6500,0,0.0,,0.08,35.0,8.8,0.9,,,12.578,auto-reject: rows not along winding
+null_0800,b0800_w079,fwd,3900,0,0.0,,0.07,65.0,8.8,0.89,,,9.914,auto-reject: rows not along winding
+null_0800,b0800_w088,rev,2600,0,0.0,,0.07,65.0,13.8,0.93,,,8.828,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w066,fwd,6500,0,0.0,,0.05,80.0,6.2,1.18,,,7.648,auto-reject: rows not along winding
+null_0800,b0800_w080,rev,0,0,0.0,,0.05,25.0,6.2,0.93,,,9.922,auto-reject: rows not along winding
+null_0800,b0800_w082,rev,7800,0,0.0,,0.05,70.0,1.2,1.09,,,11.047,auto-reject: rows not along winding
+null_0800,b0800_w065,rev,3900,0,0.0,,0.04,40.0,1.2,0.98,,,11.047,auto-reject: rows not along winding
+null_0800,b0800_w085,fwd,2600,0,0.0,,0.04,75.0,11.2,0.97,,,11.398,auto-reject: rows not along winding
+null_0800,b0800_w076,fwd,6500,0,0.0,,0.03,90.0,6.2,1.11,,,8.023,auto-reject: rows not along winding
+null_0800,b0800_w082,fwd,7800,0,0.0,,0.02,80.0,1.2,1.09,,,10.672,auto-reject: rows not along winding
+null_0800,b0800_w080,rev,7800,0,0.0,,0.0,25.0,3.8,1.02,,,9.891,auto-reject: rows not along winding
+null_0800,b0800_w085,fwd,9100,0,0.0,,0.0,65.0,3.8,1.0,,,10.836,auto-reject: rows not along winding
+null_0800,b0800_w078,fwd,5200,0,0.0,,-0.01,70.0,6.2,0.9,,,10.117,auto-reject: rows not along winding
+null_0800,b0800_w079,rev,2600,0,0.0,,-0.02,70.0,1.2,0.94,,,9.859,auto-reject: rows not along winding
+null_0800,b0800_w089,rev,3900,0,0.0,,-0.02,65.0,13.8,0.92,,,10.547,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w083,fwd,5200,0,0.0,,-0.03,25.0,1.2,0.84,,,8.672,auto-reject: rows not along winding
+null_0800,b0800_w055,rev,3900,0,0.0,,-0.04,90.0,8.8,1.07,,,8.188,auto-reject: rows not along winding
+null_0800,b0800_w069,rev,0,0,0.0,,-0.06,55.0,1.2,1.11,,,7.906,auto-reject: rows not along winding
+null_0800,b0800_w060,fwd,5200,0,0.0,,-0.07,30.0,6.2,1.15,,,10.906,auto-reject: rows not along winding
+null_0800,b0800_w066,rev,5200,0,0.0,,-0.07,30.0,1.2,1.12,,,7.812,auto-reject: rows not along winding
+null_0800,b0800_w051,rev,1300,0,0.0,,-0.08,60.0,8.8,0.98,,,8.828,auto-reject: rows not along winding
+null_0800,b0800_w053,fwd,3900,0,0.0,,-0.08,80.0,6.2,1.07,,,8.734,auto-reject: rows not along winding
+null_0800,b0800_w070,rev,6500,0,0.0,,-0.08,50.0,6.2,1.12,,,10.852,auto-reject: rows not along winding
+null_0800,b0800_w080,rev,2600,0,0.0,,-0.08,25.0,3.8,0.94,,,10.055,auto-reject: rows not along winding
+null_0800,b0800_w062,fwd,2600,0,0.0,,-0.09,80.0,3.8,0.95,,,9.953,auto-reject: rows not along winding
+null_0800,b0800_w078,fwd,3900,0,0.0,,-0.09,75.0,1.2,0.87,,,9.789,auto-reject: rows not along winding
+null_0800,b0800_w089,rev,5200,0,0.0,,-0.09,50.0,11.2,0.86,,,10.578,auto-reject: rows not along winding
+null_0800,b0800_w053,rev,3900,0,0.0,,-0.1,70.0,6.2,1.07,,,7.742,auto-reject: rows not along winding
+null_0800,b0800_w064,fwd,5200,0,0.0,,-0.1,65.0,3.8,1.09,,,8.617,auto-reject: rows not along winding
+null_0800,b0800_w062,rev,3900,0,0.0,,-0.11,40.0,6.2,0.98,,,8.852,auto-reject: rows not along winding
+null_0800,b0800_w082,rev,1300,0,0.0,,-0.12,65.0,8.8,0.96,,,10.953,auto-reject: rows not along winding
+null_0800,b0800_w079,rev,5200,0,0.0,,-0.15,25.0,3.8,0.93,,,10.898,auto-reject: rows not along winding
+null_0800,b0800_w071,rev,1300,0,0.0,,-0.16,40.0,1.2,0.98,,,6.855,auto-reject: rows not along winding
+null_0800,b0800_w072,rev,7800,0,0.0,,-0.16,30.0,6.2,1.25,,,9.547,auto-reject: rows not along winding
+null_0800,b0800_w073,fwd,0,0,0.0,,-0.16,30.0,3.8,1.1,,,8.289,auto-reject: rows not along winding
+null_0800,b0800_w074,fwd,5200,0,0.0,,-0.18,85.0,6.2,1.0,,,6.395,auto-reject: rows not along winding
+null_0800,b0800_w060,rev,5200,0,0.0,,-0.19,75.0,6.2,1.15,,,7.551,auto-reject: rows not along winding
+null_0800,b0800_w066,fwd,5200,0,0.0,,-0.19,25.0,1.2,1.12,,,9.914,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,6500,0,0.0,,-0.19,70.0,6.2,1.02,,,10.109,auto-reject: rows not along winding
+null_0800,b0800_w089,fwd,3900,0,0.0,,-0.2,55.0,13.8,0.92,,,7.668,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w052,fwd,0,0,0.0,,-0.22,40.0,8.8,1.04,,,7.332,auto-reject: rows not along winding
+null_0800,b0800_w069,fwd,1300,0,0.0,,-0.22,50.0,6.2,1.01,,,11.578,auto-reject: rows not along winding
+null_0800,b0800_w057,rev,3900,0,0.0,,-0.23,70.0,6.2,1.06,,,10.812,auto-reject: rows not along winding
+null_0800,b0800_w075,fwd,7800,0,0.0,,-0.23,75.0,6.2,1.18,,,10.109,auto-reject: rows not along winding
+null_0800,b0800_w068,fwd,6500,0,0.0,,-0.24,70.0,6.2,1.07,,,10.391,auto-reject: rows not along winding
+null_0800,b0800_w075,rev,1300,0,0.0,,-0.24,75.0,6.2,0.99,,,12.391,auto-reject: rows not along winding
+null_0800,b0800_w077,fwd,2600,0,0.0,,-0.24,25.0,6.2,0.96,,,10.172,auto-reject: rows not along winding
+null_0800,b0800_w064,rev,6500,0,0.0,,-0.25,70.0,8.8,1.14,,,9.344,auto-reject: rows not along winding
+null_0800,b0800_w077,rev,5200,0,0.0,,-0.25,65.0,6.2,0.91,,,11.812,auto-reject: rows not along winding
+null_0800,b0800_w088,rev,6500,0,0.0,,-0.26,35.0,1.2,0.91,,,9.875,auto-reject: rows not along winding
+null_0800,b0800_w054,fwd,5200,0,0.0,,-0.27,80.0,8.8,1.13,,,11.594,auto-reject: rows not along winding
+null_0800,b0800_w058,rev,0,0,0.0,,-0.27,75.0,3.8,0.98,,,9.359,auto-reject: rows not along winding
+null_0800,b0800_w079,fwd,6500,0,0.0,,-0.28,25.0,1.2,1.03,,,11.375,auto-reject: rows not along winding
+null_0800,b0800_w086,fwd,9100,0,0.0,,-0.28,70.0,3.8,0.95,,,10.766,auto-reject: rows not along winding
+null_0800,b0800_w052,rev,3900,0,0.0,,-0.29,65.0,6.2,1.08,,,7.918,auto-reject: rows not along winding
+null_0800,b0800_w060,rev,3900,0,0.0,,-0.29,55.0,6.2,1.04,,,9.094,auto-reject: rows not along winding
+null_0800,b0800_w051,fwd,0,0,0.0,,-0.31,80.0,6.2,1.03,,,8.383,auto-reject: rows not along winding
+null_0800,b0800_w073,fwd,6500,0,0.0,,-0.31,60.0,6.2,1.15,,,10.25,auto-reject: rows not along winding
+null_0800,b0800_w066,rev,0,0,0.0,,-0.32,80.0,3.8,1.12,,,8.328,auto-reject: rows not along winding
+null_0800,b0800_w085,fwd,1300,0,0.0,,-0.32,25.0,6.2,0.99,,,8.203,auto-reject: rows not along winding
+null_0800,b0800_w055,fwd,3900,0,0.0,,-0.34,35.0,8.8,1.07,,,9.297,auto-reject: rows not along winding
+null_0800,b0800_w056,rev,2600,0,0.0,,-0.34,40.0,3.8,1.02,,,12.117,auto-reject: rows not along winding
+null_0800,b0800_w087,fwd,2600,0,0.0,,-0.35,75.0,16.2,0.95,,,10.578,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w076,fwd,0,0,0.0,,-0.37,80.0,8.8,1.12,,,7.051,auto-reject: rows not along winding
+null_0800,b0800_w056,rev,3900,0,0.0,,-0.38,30.0,8.8,1.07,,,8.078,auto-reject: rows not along winding
+null_0800,b0800_w065,fwd,3900,0,0.0,,-0.38,75.0,1.2,0.98,,,10.391,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,9100,0,0.0,,-0.38,25.0,1.2,1.03,,,4.738,auto-reject: rows not along winding
+null_0800,b0800_w050,fwd,3900,0,0.0,,-0.4,75.0,8.8,1.01,,,8.719,auto-reject: rows not along winding
+null_0800,b0800_w085,rev,9100,0,0.0,,-0.4,65.0,3.8,1.0,,,7.961,auto-reject: rows not along winding
+null_0800,b0800_w089,fwd,1300,0,0.0,,-0.41,80.0,16.2,0.86,,,8.492,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w074,fwd,1300,0,0.0,,-0.42,75.0,3.8,0.99,,,8.078,auto-reject: rows not along winding
+null_0800,b0800_w079,fwd,0,0,0.0,,-0.43,35.0,6.2,0.94,,,5.555,auto-reject: rows not along winding
+null_0800,b0800_w056,rev,5200,0,0.0,,-0.45,85.0,11.2,1.06,,,5.453,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,2600,0,0.0,,-0.46,70.0,3.8,0.93,,,10.594,auto-reject: rows not along winding
+null_0800,b0800_w058,fwd,0,0,0.0,,-0.47,55.0,3.8,0.98,,,8.062,auto-reject: rows not along winding
+null_0800,b0800_w061,rev,0,0,0.0,,-0.48,60.0,3.8,1.04,,,11.727,auto-reject: rows not along winding
+null_0800,b0800_w067,fwd,0,0,0.0,,-0.48,65.0,1.2,1.13,,,9.195,auto-reject: rows not along winding
+null_0800,b0800_w078,rev,0,0,0.0,,-0.51,30.0,8.8,1.15,,,10.047,auto-reject: rows not along winding
+null_0800,b0800_w083,fwd,6500,0,0.0,,-0.51,80.0,3.8,0.98,,,8.297,auto-reject: rows not along winding
+null_0800,b0800_w076,rev,6500,0,0.0,,-0.52,85.0,6.2,1.11,,,10.516,auto-reject: rows not along winding
+null_0800,b0800_w082,fwd,1300,0,0.0,,-0.52,25.0,8.8,0.96,,,10.008,auto-reject: rows not along winding
+null_0800,b0800_w059,rev,5200,0,0.0,,-0.54,75.0,6.2,1.09,,,9.297,auto-reject: rows not along winding
+null_0800,b0800_w058,rev,5200,0,0.0,,-0.55,65.0,8.8,1.08,,,8.359,auto-reject: rows not along winding
+null_0800,b0800_w061,fwd,0,0,0.0,,-0.55,60.0,3.8,1.04,,,5.395,auto-reject: rows not along winding
+null_0800,b0800_w064,fwd,0,0,0.0,,-0.55,25.0,3.8,1.07,,,3.098,auto-reject: rows not along winding
+null_0800,b0800_w053,rev,0,0,0.0,,-0.56,80.0,3.8,1.03,,,7.648,auto-reject: rows not along winding
+null_0800,b0800_w053,rev,5200,0,0.0,,-0.57,65.0,8.8,1.14,,,5.539,auto-reject: rows not along winding
+null_0800,b0800_w070,rev,1300,0,0.0,,-0.57,45.0,6.2,1.01,,,7.949,auto-reject: rows not along winding
+null_0800,b0800_w054,rev,2600,0,0.0,,-0.58,80.0,3.8,1.03,,,8.648,auto-reject: rows not along winding
+null_0800,b0800_w078,rev,6500,0,0.0,,-0.58,65.0,3.8,1.03,,,11.391,auto-reject: rows not along winding
+null_0800,b0800_w078,fwd,6500,0,0.0,,-0.59,75.0,3.8,1.03,,,10.117,auto-reject: rows not along winding
+null_0800,b0800_w066,fwd,0,0,0.0,,-0.61,75.0,3.8,1.12,,,9.078,auto-reject: rows not along winding
+null_0800,b0800_w083,fwd,1300,0,0.0,,-0.64,45.0,6.2,0.99,,,11.203,auto-reject: rows not along winding
+null_0800,b0800_w063,fwd,1300,0,0.0,,-0.67,45.0,1.2,0.98,,,9.625,auto-reject: rows not along winding
+null_0800,b0800_w071,fwd,6500,0,0.0,,-0.67,70.0,3.8,1.14,,,7.75,auto-reject: rows not along winding
+null_0800,b0800_w083,fwd,2600,0,0.0,,-0.67,80.0,3.8,0.94,,,11.898,auto-reject: rows not along winding
+null_0800,b0800_w075,fwd,3900,0,0.0,,-0.68,75.0,3.8,0.87,,,9.43,auto-reject: rows not along winding
+null_0800,b0800_w089,fwd,6500,0,0.0,,-0.68,85.0,3.8,0.93,,,9.492,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,0,0,0.0,,-0.69,25.0,6.2,1.01,,,10.945,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,5200,0,0.0,,-0.69,75.0,1.2,0.89,,,10.109,auto-reject: rows not along winding
+null_0800,b0800_w050,fwd,1300,0,0.0,,-0.71,20.0,13.8,0.98,,,11.016,auto-reject: sheet not flat (fold/crossing)
+null_0800,b0800_w059,fwd,2600,0,0.0,,-0.71,55.0,1.2,0.98,,,10.414,auto-reject: rows not along winding
+null_0800,b0800_w073,rev,2600,0,0.0,,-0.71,45.0,3.8,0.91,,,8.375,auto-reject: rows not along winding
+null_0800,b0800_w057,fwd,3900,0,0.0,,-0.73,75.0,6.2,1.06,,,7.602,auto-reject: rows not along winding
+null_0800,b0800_w081,rev,7800,0,0.0,,-0.73,80.0,6.2,1.06,,,8.984,auto-reject: rows not along winding
+null_0800,b0800_w062,rev,2600,0,0.0,,-0.74,70.0,3.8,0.95,,,9.016,auto-reject: rows not along winding
+null_0800,b0800_w074,rev,3900,0,0.0,,-0.76,25.0,3.8,0.91,,,9.93,auto-reject: rows not along winding
+null_0800,b0800_w082,rev,9100,0,0.0,,-0.76,65.0,1.2,1.06,,,9.094,auto-reject: rows not along winding
+null_0800,b0800_w083,rev,5200,0,0.0,,-0.76,80.0,1.2,0.84,,,10.758,auto-reject: rows not along winding
+null_0800,b0800_w074,fwd,7800,0,0.0,,-0.77,45.0,3.8,1.19,,,10.812,auto-reject: rows not along winding
+null_0800,b0800_w057,fwd,1300,0,0.0,,-0.79,60.0,1.2,0.98,,,10.922,auto-reject: rows not along winding
+null_0800,b0800_w081,rev,5200,0,0.0,,-0.79,65.0,1.2,0.89,,,10.633,auto-reject: rows not along winding
+null_0800,b0800_w052,rev,1300,0,0.0,,-0.8,25.0,8.8,1.01,,,10.43,auto-reject: rows not along winding
+null_0800,b0800_w070,rev,5200,0,0.0,,-0.8,25.0,6.2,1.06,,,8.688,auto-reject: rows not along winding
+null_0800,b0800_w071,rev,3900,0,0.0,,-0.8,70.0,8.8,0.93,,,9.828,auto-reject: rows not along winding
+null_0800,b0800_w073,rev,1300,0,0.0,,-0.8,65.0,3.8,0.98,,,8.727,auto-reject: rows not along winding
+null_0800,b0800_w063,rev,2600,0,0.0,,-0.81,65.0,3.8,0.95,,,8.734,auto-reject: rows not along winding
+null_0800,b0800_w080,fwd,2600,0,0.0,,-0.81,75.0,3.8,0.94,,,8.0,auto-reject: rows not along winding
+null_0800,b0800_w051,rev,3900,0,0.0,,-0.82,25.0,6.2,1.04,,,8.688,auto-reject: rows not along winding
+null_0800,b0800_w069,rev,1300,0,0.0,,-0.83,35.0,6.2,1.01,,,7.727,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,3900,0,0.0,,-0.84,50.0,6.2,0.89,,,9.953,auto-reject: rows not along winding
+null_0800,b0800_w088,rev,3900,0,0.0,,-0.84,75.0,11.2,0.91,,,8.875,auto-reject: rows not along winding
+null_0800,b0800_w088,fwd,2600,0,0.0,,-0.85,65.0,13.8,0.93,,,7.562,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w073,rev,6500,0,0.0,,-0.86,75.0,6.2,1.15,,,9.281,auto-reject: rows not along winding
+null_0800,b0800_w053,rev,2600,0,0.0,,-0.89,85.0,3.8,1.01,,,7.418,auto-reject: rows not along winding
+null_0800,b0800_w058,rev,3900,0,0.0,,-0.89,65.0,8.8,1.04,,,8.516,auto-reject: rows not along winding
+null_0800,b0800_w064,fwd,2600,0,0.0,,-0.89,65.0,1.2,0.97,,,11.164,auto-reject: rows not along winding
+null_0800,b0800_w087,rev,7800,0,0.0,,-0.89,90.0,1.2,0.94,,,9.422,auto-reject: rows not along winding
+null_0800,b0800_w085,rev,3900,0,0.0,,-0.9,80.0,1.2,0.89,,,8.273,auto-reject: rows not along winding
+null_0800,b0800_w059,rev,0,0,0.0,,-0.92,35.0,6.2,1.02,,,3.699,auto-reject: rows not along winding
+null_0800,b0800_w083,fwd,9100,0,0.0,,-0.92,80.0,1.2,1.09,,,8.18,auto-reject: rows not along winding
+null_0800,b0800_w084,rev,6500,0,0.0,,-0.92,25.0,3.8,0.96,,,9.953,auto-reject: rows not along winding
+null_0800,b0800_w062,fwd,0,0,0.0,,-0.95,85.0,3.8,1.04,,,4.41,auto-reject: rows not along winding
+null_0800,b0800_w064,fwd,3900,0,0.0,,-0.98,40.0,6.2,1.0,,,11.328,auto-reject: rows not along winding
+null_0800,b0800_w088,fwd,9100,0,0.0,,-0.98,80.0,1.2,0.87,,,6.477,auto-reject: rows not along winding
+null_0800,b0800_w063,fwd,0,0,0.0,,-0.99,80.0,6.2,1.04,,,0.379,auto-reject: rows not along winding
+null_0800,b0800_w076,rev,1300,0,0.0,,-0.99,55.0,6.2,1.01,,,10.789,auto-reject: rows not along winding
+null_0800,b0800_w069,fwd,2600,0,0.0,,-1.0,25.0,6.2,0.93,,,11.578,auto-reject: rows not along winding
+null_0800,b0800_w084,fwd,2600,0,0.0,,-1.01,75.0,11.2,0.96,,,9.609,auto-reject: rows not along winding
+null_0800,b0800_w077,rev,2600,0,0.0,,-1.04,25.0,6.2,0.96,,,6.926,auto-reject: rows not along winding
+null_0800,b0800_w052,fwd,3900,0,0.0,,-1.05,75.0,6.2,1.08,,,9.484,auto-reject: rows not along winding
+null_0800,b0800_w058,fwd,5200,0,0.0,,-1.05,60.0,8.8,1.08,,,6.488,auto-reject: rows not along winding
+null_0800,b0800_w076,rev,3900,0,0.0,,-1.05,35.0,8.8,0.87,,,10.891,auto-reject: rows not along winding
+null_0800,b0800_w080,fwd,6500,0,0.0,,-1.05,25.0,3.8,1.01,,,10.43,auto-reject: rows not along winding
+null_0800,b0800_w083,rev,6500,0,0.0,,-1.07,80.0,3.8,0.98,,,7.719,auto-reject: rows not along winding
+null_0800,b0800_w084,rev,5200,0,0.0,,-1.07,40.0,18.8,0.83,,,12.836,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w059,fwd,1300,0,0.0,,-1.09,50.0,3.8,0.97,,,7.273,auto-reject: rows not along winding
+null_0800,b0800_w068,rev,5200,0,0.0,,-1.09,80.0,6.2,1.03,,,9.703,auto-reject: rows not along winding
+null_0800,b0800_w073,fwd,2600,0,0.0,,-1.09,85.0,3.8,0.91,,,10.664,auto-reject: rows not along winding
+null_0800,b0800_w074,fwd,6500,0,0.0,,-1.1,90.0,6.2,1.12,,,7.688,auto-reject: rows not along winding
+null_0800,b0800_w086,fwd,6500,0,0.0,,-1.11,35.0,3.8,0.9,,,10.32,auto-reject: rows not along winding
+null_0800,b0800_w051,fwd,1300,0,0.0,,-1.14,45.0,8.8,0.98,,,7.195,auto-reject: rows not along winding
+null_0800,b0800_w055,fwd,2600,0,0.0,,-1.14,80.0,3.8,1.02,,,9.352,auto-reject: rows not along winding
+null_0800,b0800_w078,rev,5200,0,0.0,,-1.14,65.0,6.2,0.9,,,9.922,auto-reject: rows not along winding
+null_0800,b0800_w080,rev,3900,0,0.0,,-1.14,75.0,1.2,0.9,,,9.664,auto-reject: rows not along winding
+null_0800,b0800_w088,fwd,6500,0,0.0,,-1.14,35.0,1.2,0.91,,,10.047,auto-reject: rows not along winding
+null_0800,b0800_w075,fwd,5200,0,0.0,,-1.19,25.0,6.2,0.97,,,9.75,auto-reject: rows not along winding
+null_0800,b0800_w081,rev,3900,0,0.0,,-1.19,50.0,6.2,0.89,,,8.445,auto-reject: rows not along winding
+null_0800,b0800_w059,fwd,0,0,0.0,,-1.2,90.0,6.2,1.02,,,7.332,auto-reject: rows not along winding
+null_0800,b0800_w053,fwd,2600,0,0.0,,-1.21,85.0,3.8,1.01,,,8.703,auto-reject: rows not along winding
+null_0800,b0800_w060,rev,0,0,0.0,,-1.21,60.0,3.8,1.04,,,11.32,auto-reject: rows not along winding
+null_0800,b0800_w057,fwd,5200,0,0.0,,-1.28,75.0,8.8,1.1,,,6.758,auto-reject: rows not along winding
+null_0800,b0800_w058,fwd,3900,0,0.0,,-1.28,50.0,8.8,1.04,,,10.453,auto-reject: rows not along winding
+null_0800,b0800_w080,fwd,0,0,0.0,,-1.29,55.0,6.2,0.93,,,8.305,auto-reject: rows not along winding
+null_0800,b0800_w085,rev,1300,0,0.0,,-1.29,25.0,6.2,0.99,,,10.164,auto-reject: rows not along winding
+null_0800,b0800_w069,fwd,0,0,0.0,,-1.31,30.0,1.2,1.11,,,9.047,auto-reject: rows not along winding
+null_0800,b0800_w070,fwd,3900,0,0.0,,-1.33,30.0,13.8,0.96,,,7.824,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w073,fwd,3900,0,0.0,,-1.34,40.0,6.2,0.91,,,10.578,auto-reject: rows not along winding
+null_0800,b0800_w060,rev,1300,0,0.0,,-1.37,90.0,3.8,1.0,,,8.031,auto-reject: rows not along winding
+null_0800,b0800_w076,fwd,1300,0,0.0,,-1.39,25.0,6.2,1.01,,,8.812,auto-reject: rows not along winding
+null_0800,b0800_w073,fwd,1300,0,0.0,,-1.45,25.0,3.8,0.98,,,8.266,auto-reject: rows not along winding
+null_0800,b0800_w078,fwd,1300,0,0.0,,-1.45,85.0,6.2,1.06,,,8.273,auto-reject: rows not along winding
+null_0800,b0800_w069,fwd,5200,0,0.0,,-1.49,90.0,6.2,1.03,,,10.203,auto-reject: rows not along winding
+null_0800,b0800_w055,rev,2600,0,0.0,,-1.53,90.0,3.8,1.02,,,9.562,auto-reject: rows not along winding
+null_0800,b0800_w063,fwd,2600,0,0.0,,-1.56,75.0,3.8,0.95,,,9.625,auto-reject: rows not along winding
+null_0800,b0800_w063,rev,3900,0,0.0,,-1.63,70.0,8.8,0.97,,,9.484,auto-reject: rows not along winding
+null_0800,b0800_w076,fwd,5200,0,0.0,,-1.65,25.0,6.2,0.93,,,7.461,auto-reject: rows not along winding
+null_0800,b0800_w084,fwd,1300,0,0.0,,-1.65,65.0,8.8,0.99,,,11.609,auto-reject: rows not along winding
+null_0800,b0800_w065,fwd,0,0,0.0,,-1.7,45.0,8.8,1.07,,,4.875,auto-reject: rows not along winding
+null_0800,b0800_w082,fwd,2600,0,0.0,,-1.74,90.0,1.2,0.92,,,11.055,auto-reject: rows not along winding
+null_0800,b0800_w063,fwd,3900,0,0.0,,-1.75,25.0,8.8,0.97,,,9.727,auto-reject: rows not along winding
+null_0800,b0800_w089,rev,1300,0,0.0,,-1.78,75.0,16.2,0.86,,,9.992,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w080,fwd,1300,0,0.0,,-1.82,70.0,21.2,0.93,,,8.109,"auto-reject: rows not along winding, sheet not flat (fold/crossing)"
+null_0800,b0800_w056,fwd,3900,0,0.0,,-1.95,80.0,8.8,1.07,,,9.484,auto-reject: rows not along winding
+null_0800,b0800_w072,rev,5200,0,0.0,,-1.97,25.0,3.8,1.03,,,10.18,auto-reject: rows not along winding
+null_0800,b0800_w054,fwd,3900,0,0.0,,-2.07,70.0,6.2,1.09,,,9.523,auto-reject: rows not along winding
+null_0800,b0800_w081,fwd,1300,0,0.0,,-2.1,85.0,6.2,0.96,,,10.766,auto-reject: rows not along winding
+null_0800,b0800_w088,rev,7800,0,0.0,,-2.18,35.0,1.2,0.95,,,9.391,auto-reject: rows not along winding
+c1447,c1447_w058,rev,2600,1,0.2444,1720608,3.44,5.0,3.8,1.0,0.09,0.39,11.398,REVIEW
+c1447,c1447_w060,rev,1300,1,0.2652,3012783,2.2,0.0,1.2,0.92,0.22,0.432,12.953,REVIEW
+c1447,c1447_w058,fwd,1300,,0.237,3139190,0.99,10.0,3.8,0.99,0.84,0.282,9.195,REVIEW
+c1447,c1447_w060,rev,2600,1,0.2707,2216053,0.3,15.0,1.2,0.88,0.19,0.344,12.953,REVIEW
+c1447,c1447_w058,rev,1300,1,0.237,3139190,0.05,0.0,3.8,0.99,1.01,0.578,11.398,REVIEW
+c1447,c1447_w060,fwd,2600,,0.2707,2216053,-0.21,5.0,1.2,0.88,0.0,0.409,11.953,REVIEW
+c1447,c1447_w060,fwd,5200,,0.0,0,-0.67,0.0,1.2,1.0,0.63,0.338,9.266,REVIEW
+c1447,c1447_w058,fwd,3900,,0.3046,308719,-0.44,20.0,1.2,1.03,1.86,0.517,9.953,REVIEW-2: on cracks
+c1447,c1447_w058,rev,5200,,0.0,0,4.4,35.0,1.2,1.03,,,10.125,auto-reject: rows not along winding
+c1447,c1447_w058,fwd,2600,,0.2444,1720608,1.45,80.0,3.8,1.0,,,10.023,auto-reject: rows not along winding
+c1447,c1447_w058,rev,3900,1,0.3046,308719,1.05,85.0,1.2,1.03,,,9.5,auto-reject: rows not along winding
+c1447,c1447_w060,rev,0,1,0.2661,1015031,0.98,25.0,1.2,1.06,,,10.266,auto-reject: rows not along winding
+c1447,c1447_w058,rev,0,1,0.2543,2138164,0.85,25.0,1.2,1.08,,,11.953,auto-reject: rows not along winding
+c1447,c1447_w060,fwd,0,,0.2661,1015031,0.15,25.0,1.2,1.06,,,7.574,auto-reject: rows not along winding
+c1447,c1447_w058,fwd,0,,0.2543,2138164,-0.23,80.0,1.2,1.08,,,7.68,auto-reject: rows not along winding
+c1447,c1447_w060,rev,3900,1,0.3259,218301,-0.74,55.0,1.2,0.93,,,10.883,auto-reject: rows not along winding
+c1447,c1447_w060,rev,5200,,0.0,0,-0.81,45.0,1.2,1.0,,,10.828,auto-reject: rows not along winding
+c1447,c1447_w058,fwd,5200,,0.0,0,-0.9,40.0,1.2,1.03,,,7.738,auto-reject: rows not along winding
+c1447,c1447_w060,fwd,3900,,0.3259,218301,-1.38,60.0,1.2,0.93,,,9.438,auto-reject: rows not along winding
+c1447,c1447_w060,fwd,1300,,0.2652,3012783,-1.89,65.0,1.2,0.92,,,11.953,auto-reject: rows not along winding
+c0841,c0841_w00,rev,1300,1,0.2219,1601304,11.39,10.0,8.8,0.99,1.29,0.341,12.641,REVIEW
+c0841,c0841_ag144,rev,0,1,0.307,635656,4.48,10.0,8.8,1.06,0.2,0.578,11.875,REVIEW
+c0841,c0841_ag174,rev,1300,1,0.2274,1268316,3.62,10.0,6.2,1.0,1.4,0.594,14.414,REVIEW
+c0841,c0841_ag144,rev,1300,1,0.3235,983103,1.1,20.0,8.8,1.08,0.55,0.464,13.398,REVIEW
+c0841,c0841_ag174,fwd,1300,,0.2274,1268316,-0.23,15.0,6.2,1.0,1.21,0.439,11.477,REVIEW
+c0841,c0841_ag144,fwd,0,,0.307,635656,-0.64,15.0,8.8,1.06,0.66,0.321,8.133,REVIEW
+c0841,c0841_w00,fwd,0,,0.0,0,0.02,10.0,8.8,0.99,1.93,0.332,10.672,REVIEW-2: on cracks
+c0841,c0841_ag174,fwd,0,,0.2338,758528,0.01,15.0,6.2,1.0,1.89,0.385,10.617,REVIEW-2: on cracks
+c0841,c0841_w00,rev,0,,0.0,0,-0.33,0.0,8.8,0.99,1.78,0.403,12.523,REVIEW-2: on cracks
+c0841,c0841_ag174,rev,0,1,0.2338,758528,-0.61,0.0,6.2,1.0,1.58,0.491,13.703,REVIEW-2: on cracks
+c0841,c0841_ag144,fwd,1300,,0.3235,983103,0.45,70.0,8.8,1.08,,,9.492,auto-reject: rows not along winding
+c0841,c0841_w00,fwd,1300,,0.2219,1601304,-1.3,90.0,8.8,0.99,,,10.797,auto-reject: rows not along winding
+c306,c306_claim,fwd,3900,1,0.1544,10977184,3.24,0.0,1.2,0.98,0.74,0.321,12.414,REVIEW
+c306,c306_claim,fwd,1300,1,0.1851,10855363,1.87,5.0,3.8,1.0,0.35,0.252,10.016,REVIEW
+c306,c306_claim,rev,0,,0.1244,7788195,-0.01,5.0,3.8,1.0,0.46,0.706,8.328,REVIEW
+c306,c306_claim,rev,3900,,0.1544,10977184,0.05,0.0,1.2,0.98,1.52,0.395,11.203,REVIEW-2: on cracks
+c306,c306_claim,fwd,2600,1,0.1895,10977151,13.98,10.0,1.2,1.0,0.47,0.167,10.352,"REVIEW-2: round blobs, no strokes"
+c306,c306_claim,rev,2600,,0.1895,10977151,9.73,90.0,1.2,1.0,,,9.914,auto-reject: rows not along winding
+c306,c306_claim,rev,1300,,0.1851,10855363,-1.01,65.0,3.8,1.0,,,8.203,auto-reject: rows not along winding
+c306,c306_claim,fwd,0,1,0.1244,7788195,-1.42,40.0,3.8,1.0,,,8.859,auto-reject: rows not along winding

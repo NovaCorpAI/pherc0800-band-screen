@@ -1,0 +1,26 @@
+{"stage": "env", "out": "2.14.1+cu126 2", "err": "", "t": "2026-11-11T21:19:53"}
+{"stage": "fetch", "secs": 244, "labels": ["c0841_ag144", "c0841_ag174", "c0841_w00", "c1447_w058", "c1447_w060"], "meshes": ["c0841/ag144", "c0841/ag174", "c0841/w00", "c1447/w058", "c1447/w060"], "t": "2026-11-11T21:23:56"}
+{"stage": "render", "item": "c0841_w00", "rc": 0, "ok": true, "secs": 2330, "t": "2026-11-11T22:02:46"}
+{"stage": "render", "item": "c0841_ag144", "rc": 0, "ok": true, "secs": 2180, "t": "2026-11-11T22:39:16"}
+{"stage": "render", "item": "c1447_w058", "rc": 0, "ok": true, "secs": 4560, "t": "2026-11-11T22:39:56"}
+{"stage": "render", "item": "c1447_w060", "rc": 0, "ok": true, "secs": 4620, "t": "2026-11-11T22:40:56"}
+{"stage": "render", "item": "c0841_ag174", "rc": 0, "ok": true, "secs": 1550, "t": "2026-11-11T23:05:16"}
+{"stage": "render_all", "secs": 6090, "t": "2026-11-11T23:05:26"}
+{"stage": "ink", "tag": "c1447", "rc": 0, "items": ["w058", "w060"], "secs": 314, "t": "2026-11-11T23:10:41"}
+{"stage": "ink", "tag": "c0841", "rc": 0, "items": ["w00", "ag144", "ag174"], "secs": 249, "t": "2026-11-11T23:14:49"}
+{"stage": "ink", "tag": "c306", "rc": 0, "items": ["claim"], "secs": 158, "t": "2026-11-11T23:17:27"}
+{"stage": "window_score", "tag": "c1447", "rc": 0, "secs": 790, "t": "2026-11-11T23:30:37"}
+{"stage": "glyph_win", "tag": "c1447", "rc": 0, "t": "2026-11-11T23:31:01"}
+{"stage": "tri_rank", "tag": "c1447", "rc": 0, "t": "2026-11-11T23:41:38"}
+{"stage": "line_find", "tag": "c1447", "rc": 0, "t": "2026-11-11T23:41:54"}
+{"stage": "window_score", "tag": "c0841", "rc": 0, "secs": 389, "t": "2026-11-11T23:48:23"}
+{"stage": "glyph_win", "tag": "c0841", "rc": 0, "t": "2026-11-11T23:48:40"}
+{"stage": "tri_rank", "tag": "c0841", "rc": 0, "t": "2026-11-11T23:56:49"}
+{"stage": "line_find", "tag": "c0841", "rc": 0, "t": "2026-11-11T23:56:52"}
+{"stage": "window_score", "tag": "c306", "rc": 0, "secs": 335, "t": "2026-11-12T00:02:27"}
+{"stage": "glyph_win", "tag": "c306", "rc": 0, "t": "2026-11-12T00:02:39"}
+{"stage": "tri_rank", "tag": "c306", "rc": 0, "t": "2026-11-12T00:09:02"}
+{"stage": "line_find", "tag": "c306", "rc": 0, "t": "2026-11-12T00:09:05"}
+{"stage": "analysis", "rc": 0, "t": "2026-11-12T00:10:32"}
+{"stage": "pack", "tar_mb": 838.8, "t": "2026-11-12T00:10:32"}
+{"stage": "done", "secs": 10370, "t": "2026-11-12T00:10:32"}

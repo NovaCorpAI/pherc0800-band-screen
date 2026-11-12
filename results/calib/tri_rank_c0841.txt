@@ -1,0 +1,12 @@
+ 11.39 c0841_w00              rev x1300   rows  10.0 fib 8.8 tex 0.99 crack 1.29 shape 0.341 recur None glyph 12.641 via row  -> REVIEW
+  4.48 c0841_ag144            rev x0      rows  10.0 fib 8.8 tex 1.06 crack 0.2 shape 0.578 recur None glyph 11.875 via row  -> REVIEW
+  3.62 c0841_ag174            rev x1300   rows  10.0 fib 6.2 tex 1.0 crack 1.4 shape 0.594 recur None glyph 14.414 via row  -> REVIEW
+  1.10 c0841_ag144            rev x1300   rows  20.0 fib 8.8 tex 1.08 crack 0.55 shape 0.464 recur None glyph 13.398 via row  -> REVIEW
+ -0.23 c0841_ag174            fwd x1300   rows  15.0 fib 6.2 tex 1.0 crack 1.21 shape 0.439 recur None glyph 11.477 via row  -> REVIEW
+ -0.64 c0841_ag144            fwd x0      rows  15.0 fib 8.8 tex 1.06 crack 0.66 shape 0.321 recur None glyph 8.133 via row  -> REVIEW
+  0.02 c0841_w00              fwd x0      rows  10.0 fib 8.8 tex 0.99 crack 1.93 shape 0.332 recur None glyph 10.672 via row  -> REVIEW-2: on cracks
+  0.01 c0841_ag174            fwd x0      rows  15.0 fib 6.2 tex 1.0 crack 1.89 shape 0.385 recur None glyph 10.617 via row  -> REVIEW-2: on cracks
+ -0.33 c0841_w00              rev x0      rows   0.0 fib 8.8 tex 0.99 crack 1.78 shape 0.403 recur None glyph 12.523 via row  -> REVIEW-2: on cracks
+ -0.61 c0841_ag174            rev x0      rows   0.0 fib 6.2 tex 1.0 crack 1.58 shape 0.491 recur None glyph 13.703 via row  -> REVIEW-2: on cracks
+  0.45 c0841_ag144            fwd x1300   rows  70.0 fib 8.8 tex 1.08 crack None shape None recur None glyph 9.492 via row  -> auto-reject: rows not along winding
+ -1.30 c0841_w00              fwd x1300   rows  90.0 fib 8.8 tex 0.99 crack None shape None recur None glyph 10.797 via row  -> auto-reject: rows not along winding
