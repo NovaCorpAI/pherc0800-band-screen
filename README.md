@@ -150,10 +150,12 @@ The runs behind every number above are public, with logs and outputs: kernels
 [render-2](https://www.kaggle.com/code/anaelcasanova/band0800-render-2),
 [render-3](https://www.kaggle.com/code/anaelcasanova/band0800-render-3),
 [ink](https://www.kaggle.com/code/anaelcasanova/band0800-ink) and
-[cards](https://www.kaggle.com/code/anaelcasanova/band0800-cards); datasets
+[cards](https://www.kaggle.com/code/anaelcasanova/band0800-cards), plus the calibration run
+[calib](https://www.kaggle.com/code/anaelcasanova/band0800-calib); datasets
 [band0800-code](https://www.kaggle.com/datasets/anaelcasanova/band0800-code),
 [band0800-snap](https://www.kaggle.com/datasets/anaelcasanova/band0800-snap) and
-[band0800-flat](https://www.kaggle.com/datasets/anaelcasanova/band0800-flat).
+[band0800-flat](https://www.kaggle.com/datasets/anaelcasanova/band0800-flat) and
+[band0800-calib-labels](https://www.kaggle.com/datasets/anaelcasanova/band0800-calib-labels) (organisers' PHerc. 0841 labels on the mesh canvas, CC BY-NC 4.0).
 "Copy & Edit" on a kernel reruns it on your own account.
 
 ## How to reproduce
