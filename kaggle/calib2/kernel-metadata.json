@@ -1,0 +1,13 @@
+{
+  "id": "anaelcasanova/band0800-calib2",
+  "title": "band0800-calib2",
+  "code_file": "kaggle_calib2.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["anaelcasanova/band0800-code", "anaelcasanova/band0800-calib-labels"],
+  "competition_sources": [],
+  "kernel_sources": ["anaelcasanova/band0800-calib", "anaelcasanova/band0800-ink", "anaelcasanova/band0800-render-0", "anaelcasanova/band0800-render-1", "anaelcasanova/band0800-render-2", "anaelcasanova/band0800-render-3"]
+}

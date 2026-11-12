@@ -1,0 +1,8 @@
+{"stage": "maps", "secs": 165, "text": 6, "null": 40, "t": "2026-11-12T16:21:50"}
+{"stage": "line_find", "lane": "p1447", "rc": 0, "secs": 30, "t": "2026-11-12T16:22:20"}
+{"stage": "line_find", "lane": "p0841", "rc": 0, "secs": 13, "t": "2026-11-12T16:22:33"}
+{"stage": "line_find", "lane": "p306", "rc": 0, "secs": 9, "t": "2026-11-12T16:22:42"}
+{"stage": "line_find", "lane": "b0800", "rc": 0, "secs": 156, "t": "2026-11-12T16:25:18"}
+{"stage": "analysis", "rc": 0, "t": "2026-11-12T16:26:12"}
+{"stage": "cards", "rc": 0, "t": "2026-11-12T16:27:29"}
+{"stage": "done", "secs": 658, "t": "2026-11-12T16:27:29"}

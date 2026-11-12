@@ -109,13 +109,32 @@ What this means for anyone running the 306B lane on Reader V3 maps:
    null window but one (14.22); the shape gate demotes it to REVIEW-2 as "round blobs". Only 1 of its 4 line windows passes the
    recommended rule. Reader V3 is not enough for First Letters-grade faint text; 306B needed their own fine-tuned
    models for it.
-5. **line_find does not separate on V3 maps:** on PHerc. 1447 the best chains on text score 9.05 and 6.49 while the
-   PHerc. 0800 nulls reach 8.94 (p99 7.50). (line_find skipped the 0841 and 0306B surfaces because their names do not
-   follow the `wNNN` winding pattern; to be fixed.)
+5. **line_find at 8.0 is the best single detector on V3 maps.** A second run (kernel `kaggle/calib2`, public run
+   [band0800-calib2](https://www.kaggle.com/code/anaelcasanova/band0800-calib2)) ran line_find on all 6 text surfaces
+   and on the 80 null faces of PHerc. 0800 (1004.5 cm2), without CT on either side so both are scored the same way.
+   Chains that lie on labelled text beat the null chains with AUC 0.839 (null max 8.94, p99 7.50).
 
-The 5 null windows the recommended rule keeps were checked by eye: 3 had review cards (cards 06, 11 and 19 of the
-[band0800-cards](https://www.kaggle.com/code/anaelcasanova/band0800-cards) run: w064 rev x1300, w078 rev x7800, w075 rev
-x7800) and show the same blobs on gaps; w067 rev x3900 and x5200 have no card yet.
+   | line_find threshold | false lines per 100 cm2 (nulls) | text surfaces with a chain on text (text face) |
+   |---|---|---|
+   | 6.0 | 4.48 | 5 of 6 |
+   | 7.5 | 0.60 | 5 of 6 |
+   | **8.0** | **0.10** | **5 of 6** |
+   | 9.0 | 0 | 3 of 6 |
+
+   Best chain on text per surface: PHerc. 0841 w00 11.02, ag174 9.55, ag144 8.76; PHerc. 1447 w058 9.05; the PHerc.
+   0306B claim line 8.21 (so line_find sees the faint 0306B line that V3 pixels and the glyph gate miss); only PHerc.
+   1447 w060 stays below (5.58). On the whole 0800 band a single chain passes 8.0 (w068 fwd, 8.94), and its review card
+   shows round blobs, no letters. Recommendation: on V3 maps, send every line_find chain >= 8.0 to visual review, next
+   to the REVIEW and glyph >= 11 queue. (The first calibration run had skipped the 0841 and 0306B surfaces because of
+   a file-name pattern; the second run fixes that.)
+
+The 5 null windows the recommended rule keeps were checked by eye: cards 06, 11 and 19 of the
+[band0800-cards](https://www.kaggle.com/code/anaelcasanova/band0800-cards) run (w064 rev x1300, w078 rev x7800, w075 rev
+x7800) and two cards from the calib2 run (w067 rev x3900 and x5200, in `results/calib2/cards/`). All five show round
+blobs on gaps and cross-hatched fibre texture, no strokes and no rows of letters.
+
+Caveat: the nulls are the screened band itself, called negative by eye, so the false-line rates assume that band holds
+no visible text.
 
 Limits: 17 text windows on 3 scrolls is a small sample, the 1447 and 0841 text is denser than a First Letters target,
 recur (needs neighbouring windings) was not available for the text surfaces, and the 0306B labels are a box around the
@@ -139,7 +158,7 @@ Layout of this repository (code MIT, see Licenses):
 
 - **`results/`**: `fit/` (snap reports for both senses, timing, umbilicus, winding list and the 40 snapped CW
   windings as tifxyz in `fit/snap/`), `triage/` (tri_rank, line_find, run log of the ink kernel) and `cards/` (the six
-  review cards discussed above plus the index of all 33).
+  review cards discussed above plus the index of all 33); `calib/` and `calib2/` hold the calibration outputs.
 
 ## Kaggle (public runs)
 
@@ -150,8 +169,8 @@ The runs behind every number above are public, with logs and outputs: kernels
 [render-2](https://www.kaggle.com/code/anaelcasanova/band0800-render-2),
 [render-3](https://www.kaggle.com/code/anaelcasanova/band0800-render-3),
 [ink](https://www.kaggle.com/code/anaelcasanova/band0800-ink) and
-[cards](https://www.kaggle.com/code/anaelcasanova/band0800-cards), plus the calibration run
-[calib](https://www.kaggle.com/code/anaelcasanova/band0800-calib); datasets
+[cards](https://www.kaggle.com/code/anaelcasanova/band0800-cards), plus the calibration runs
+[calib](https://www.kaggle.com/code/anaelcasanova/band0800-calib) and [calib2](https://www.kaggle.com/code/anaelcasanova/band0800-calib2); datasets
 [band0800-code](https://www.kaggle.com/datasets/anaelcasanova/band0800-code),
 [band0800-snap](https://www.kaggle.com/datasets/anaelcasanova/band0800-snap) and
 [band0800-flat](https://www.kaggle.com/datasets/anaelcasanova/band0800-flat) and

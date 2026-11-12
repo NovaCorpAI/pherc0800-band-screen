@@ -1,0 +1,109 @@
+{
+ "null_chains": 532,
+ "null_cm2": 1004.5,
+ "null_max": 8.942,
+ "null_p99": 7.496,
+ "text_chains_on_text": 23,
+ "text_chains_off_text": 70,
+ "auc_on_text_vs_null": 0.839,
+ "auc_on_vs_off_text": 0.77,
+ "per_map": {
+  "c1447_w058:fwd": {
+   "chains": 7,
+   "best_on_text": 1.316,
+   "best_off_text": 3.921,
+   "cm2": 21.55
+  },
+  "c1447_w058:rev": {
+   "chains": 13,
+   "best_on_text": 9.046,
+   "best_off_text": 7.027,
+   "cm2": 21.55
+  },
+  "c1447_w060:fwd": {
+   "chains": 8,
+   "best_on_text": 6.291,
+   "best_off_text": 5.363,
+   "cm2": 22.349
+  },
+  "c1447_w060:rev": {
+   "chains": 12,
+   "best_on_text": 5.575,
+   "best_off_text": 6.489,
+   "cm2": 22.349
+  },
+  "c0841_w00:fwd": {
+   "chains": 5,
+   "best_on_text": 3.255,
+   "best_off_text": 6.529,
+   "cm2": 12.502
+  },
+  "c0841_w00:rev": {
+   "chains": 8,
+   "best_on_text": 11.018,
+   "best_off_text": 5.018,
+   "cm2": 12.502
+  },
+  "c0841_ag144:fwd": {
+   "chains": 6,
+   "best_on_text": 5.069,
+   "best_off_text": 4.671,
+   "cm2": 12.554
+  },
+  "c0841_ag144:rev": {
+   "chains": 9,
+   "best_on_text": 8.763,
+   "best_off_text": 8.233,
+   "cm2": 12.554
+  },
+  "c0841_ag174:fwd": {
+   "chains": 5,
+   "best_on_text": 4.187,
+   "best_off_text": 7.189,
+   "cm2": 11.821
+  },
+  "c0841_ag174:rev": {
+   "chains": 5,
+   "best_on_text": 9.55,
+   "best_off_text": 10.01,
+   "cm2": 11.821
+  },
+  "c306_claim:fwd": {
+   "chains": 4,
+   "best_on_text": 8.205,
+   "best_off_text": 7.196,
+   "cm2": 21.72
+  },
+  "c306_claim:rev": {
+   "chains": 11,
+   "best_on_text": 6.506,
+   "best_off_text": 5.381,
+   "cm2": 21.72
+  }
+ },
+ "at_6.0": {
+  "null_lines_per_100cm2": 4.48,
+  "text_maps_with_line_on_text": 7,
+  "text_maps": 12
+ },
+ "at_6.8": {
+  "null_lines_per_100cm2": 1.39,
+  "text_maps_with_line_on_text": 5,
+  "text_maps": 12
+ },
+ "at_7.5": {
+  "null_lines_per_100cm2": 0.6,
+  "text_maps_with_line_on_text": 5,
+  "text_maps": 12
+ },
+ "at_8.0": {
+  "null_lines_per_100cm2": 0.1,
+  "text_maps_with_line_on_text": 5,
+  "text_maps": 12
+ },
+ "at_9.0": {
+  "null_lines_per_100cm2": 0.0,
+  "text_maps_with_line_on_text": 3,
+  "text_maps": 12
+ }
+}
